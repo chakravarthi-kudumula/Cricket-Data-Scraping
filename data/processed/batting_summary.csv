@@ -1,0 +1,640 @@
+match_id,match,batting_team,bowling_team,batsman_name,batting_position,runs,balls,4s,6s,strike_rate,out/not_out,dismissal
+1298135,Namibia vs Sri Lanka,Namibia,Sri Lanka,M van Lingen,1,3,6,0,0,50.0,out,caught
+1298135,Namibia vs Sri Lanka,Namibia,Sri Lanka,D la Cock,2,9,9,1,0,100.0,out,caught
+1298135,Namibia vs Sri Lanka,Namibia,Sri Lanka,JN Loftie-Eaton,3,20,12,1,2,166.67,out,caught
+1298135,Namibia vs Sri Lanka,Namibia,Sri Lanka,SJ Baard,4,26,24,2,0,108.33,out,caught
+1298135,Namibia vs Sri Lanka,Namibia,Sri Lanka,MG Erasmus,5,20,24,0,0,83.33,out,caught
+1298135,Namibia vs Sri Lanka,Namibia,Sri Lanka,JN Frylinck,6,44,28,4,0,157.14,out,run out
+1298135,Namibia vs Sri Lanka,Namibia,Sri Lanka,D Wiese,7,0,1,0,0,0.0,out,caught
+1298135,Namibia vs Sri Lanka,Namibia,Sri Lanka,JJ Smit,8,31,16,2,2,193.75,not out,
+1298135,Namibia vs Sri Lanka,Sri Lanka,Namibia,P Nissanka,1,9,10,1,0,90.0,out,caught
+1298135,Namibia vs Sri Lanka,Sri Lanka,Namibia,BKG Mendis,2,6,6,0,0,100.0,out,caught
+1298135,Namibia vs Sri Lanka,Sri Lanka,Namibia,DM de Silva,3,12,11,1,0,109.09,out,caught
+1298135,Namibia vs Sri Lanka,Sri Lanka,Namibia,MD Gunathilaka,4,0,1,0,0,0.0,out,caught
+1298135,Namibia vs Sri Lanka,Sri Lanka,Namibia,PBB Rajapaksa,5,20,21,2,0,95.24,out,caught
+1298135,Namibia vs Sri Lanka,Sri Lanka,Namibia,MD Shanaka,6,29,23,2,1,126.09,out,caught
+1298135,Namibia vs Sri Lanka,Sri Lanka,Namibia,PWH de Silva,7,4,8,0,0,50.0,out,caught
+1298135,Namibia vs Sri Lanka,Sri Lanka,Namibia,C Karunaratne,8,5,8,0,0,62.5,out,caught
+1298135,Namibia vs Sri Lanka,Sri Lanka,Namibia,PVD Chameera,9,8,15,0,0,53.33,out,caught
+1298135,Namibia vs Sri Lanka,Sri Lanka,Namibia,M Theekshana,10,11,11,0,1,100.0,not out,
+1298136,United Arab Emirates vs Netherlands,Netherlands,United Arab Emirates,Vikramjit Singh,1,10,7,2,0,142.86,out,bowled
+1298136,United Arab Emirates vs Netherlands,Netherlands,United Arab Emirates,MP O'Dowd,2,23,18,3,1,127.78,out,bowled
+1298136,United Arab Emirates vs Netherlands,Netherlands,United Arab Emirates,BFW de Leede,3,14,18,1,0,77.78,out,caught
+1298136,United Arab Emirates vs Netherlands,Netherlands,United Arab Emirates,CN Ackermann,4,17,19,1,0,89.47,out,caught
+1298136,United Arab Emirates vs Netherlands,Netherlands,United Arab Emirates,TLW Cooper,5,8,16,0,0,50.0,out,lbw
+1298136,United Arab Emirates vs Netherlands,Netherlands,United Arab Emirates,SA Edwards,6,16,19,0,0,84.21,not out,
+1298136,United Arab Emirates vs Netherlands,Netherlands,United Arab Emirates,RE van der Merwe,7,0,2,0,0,0.0,out,bowled
+1298136,United Arab Emirates vs Netherlands,Netherlands,United Arab Emirates,TJG Pringle,8,15,16,0,0,93.75,out,bowled
+1298136,United Arab Emirates vs Netherlands,Netherlands,United Arab Emirates,LV van Beek,9,4,4,0,0,100.0,not out,
+1298136,United Arab Emirates vs Netherlands,United Arab Emirates,Netherlands,Chirag Suri,1,12,20,1,0,60.0,out,caught
+1298136,United Arab Emirates vs Netherlands,United Arab Emirates,Netherlands,Waseem Muhammad,2,41,47,1,2,87.23,out,caught
+1298136,United Arab Emirates vs Netherlands,United Arab Emirates,Netherlands,Kashif Daud,3,15,14,0,1,107.14,out,bowled
+1298136,United Arab Emirates vs Netherlands,United Arab Emirates,Netherlands,V Aravind,4,18,21,0,0,85.71,out,caught
+1298136,United Arab Emirates vs Netherlands,United Arab Emirates,Netherlands,Zawar Farid,5,2,4,0,0,50.0,not out,
+1298136,United Arab Emirates vs Netherlands,United Arab Emirates,Netherlands,Basil Hameed,6,4,4,1,0,100.0,out,caught
+1298136,United Arab Emirates vs Netherlands,United Arab Emirates,Netherlands,CP Rizwan,7,1,2,0,0,50.0,out,bowled
+1298136,United Arab Emirates vs Netherlands,United Arab Emirates,Netherlands,Aayan Afzal Khan,8,5,7,0,0,71.43,out,caught
+1298136,United Arab Emirates vs Netherlands,United Arab Emirates,Netherlands,Junaid Siddique,9,0,1,0,0,0.0,not out,
+1298137,Scotland vs West Indies,Scotland,West Indies,HG Munsey,1,66,53,9,0,124.53,not out,
+1298137,Scotland vs West Indies,Scotland,West Indies,MA Jones,2,20,17,3,0,117.65,out,bowled
+1298137,Scotland vs West Indies,Scotland,West Indies,MH Cross,3,3,5,0,0,60.0,out,caught
+1298137,Scotland vs West Indies,Scotland,West Indies,RD Berrington,4,16,14,0,1,114.29,out,caught
+1298137,Scotland vs West Indies,Scotland,West Indies,CS MacLeod,5,23,14,4,0,164.29,out,caught
+1298137,Scotland vs West Indies,Scotland,West Indies,MA Leask,6,4,6,0,0,66.67,out,bowled
+1298137,Scotland vs West Indies,Scotland,West Indies,CN Greaves,7,16,11,2,0,145.45,not out,
+1298137,Scotland vs West Indies,West Indies,Scotland,KR Mayers,1,20,13,3,1,153.85,out,caught
+1298137,Scotland vs West Indies,West Indies,Scotland,E Lewis,2,14,13,1,1,107.69,out,caught
+1298137,Scotland vs West Indies,West Indies,Scotland,BA King,3,17,15,3,0,113.33,out,bowled
+1298137,Scotland vs West Indies,West Indies,Scotland,N Pooran,4,5,9,0,0,55.56,out,bowled
+1298137,Scotland vs West Indies,West Indies,Scotland,SSJ Brooks,5,4,9,0,0,44.44,out,caught
+1298137,Scotland vs West Indies,West Indies,Scotland,R Powell,6,5,6,0,0,83.33,out,caught
+1298137,Scotland vs West Indies,West Indies,Scotland,JO Holder,7,38,33,4,1,115.15,out,caught
+1298137,Scotland vs West Indies,West Indies,Scotland,AJ Hosein,8,1,1,0,0,100.0,not out,
+1298137,Scotland vs West Indies,West Indies,Scotland,AS Joseph,9,0,1,0,0,0.0,out,caught
+1298137,Scotland vs West Indies,West Indies,Scotland,OF Smith,10,5,8,0,0,62.5,out,caught
+1298137,Scotland vs West Indies,West Indies,Scotland,OC McCoy,11,2,3,0,0,66.67,not out,
+1298138,Zimbabwe vs Ireland,Ireland,Zimbabwe,PR Stirling,1,0,2,0,0,0.0,out,bowled
+1298138,Zimbabwe vs Ireland,Ireland,Zimbabwe,L Tucker,2,11,11,2,0,100.0,out,bowled
+1298138,Zimbabwe vs Ireland,Ireland,Zimbabwe,A Balbirnie,3,3,4,0,0,75.0,out,caught
+1298138,Zimbabwe vs Ireland,Ireland,Zimbabwe,HT Tector,4,1,4,0,0,25.0,out,caught
+1298138,Zimbabwe vs Ireland,Ireland,Zimbabwe,C Campher,5,27,22,1,0,122.73,out,bowled
+1298138,Zimbabwe vs Ireland,Ireland,Zimbabwe,GH Dockrell,6,24,20,3,0,120.0,out,bowled
+1298138,Zimbabwe vs Ireland,Ireland,Zimbabwe,GJ Delany,7,24,20,1,1,120.0,out,caught
+1298138,Zimbabwe vs Ireland,Ireland,Zimbabwe,MR Adair,8,9,10,0,1,90.0,out,caught
+1298138,Zimbabwe vs Ireland,Ireland,Zimbabwe,Simi Singh,9,0,1,0,0,0.0,out,bowled
+1298138,Zimbabwe vs Ireland,Ireland,Zimbabwe,BJ McCarthy,10,22,16,1,2,137.5,not out,
+1298138,Zimbabwe vs Ireland,Ireland,Zimbabwe,J Little,11,7,11,1,0,63.64,not out,
+1298138,Zimbabwe vs Ireland,Zimbabwe,Ireland,RW Chakabva,1,0,2,0,0,0.0,out,caught
+1298138,Zimbabwe vs Ireland,Zimbabwe,Ireland,W Madhevere,2,22,19,4,0,115.79,out,caught
+1298138,Zimbabwe vs Ireland,Zimbabwe,Ireland,CR Ervine,3,9,12,1,0,75.0,out,stumped
+1298138,Zimbabwe vs Ireland,Zimbabwe,Ireland,Sikandar Raza,4,82,48,5,5,170.83,out,bowled
+1298138,Zimbabwe vs Ireland,Zimbabwe,Ireland,SC Williams,5,12,11,0,1,109.09,out,caught
+1298138,Zimbabwe vs Ireland,Zimbabwe,Ireland,M Shumba,6,16,14,1,0,114.29,out,caught
+1298138,Zimbabwe vs Ireland,Zimbabwe,Ireland,RP Burl,7,1,4,0,0,25.0,out,caught
+1298138,Zimbabwe vs Ireland,Zimbabwe,Ireland,LM Jongwe,8,20,10,3,0,200.0,not out,
+1298139,Namibia vs Netherlands,Namibia,Netherlands,M van Lingen,1,20,19,3,0,105.26,out,caught
+1298139,Namibia vs Netherlands,Namibia,Netherlands,D la Cock,2,0,2,0,0,0.0,out,caught
+1298139,Namibia vs Netherlands,Namibia,Netherlands,SJ Baard,3,19,22,0,0,86.36,out,caught
+1298139,Namibia vs Netherlands,Namibia,Netherlands,JN Loftie-Eaton,4,0,2,0,0,0.0,out,caught
+1298139,Namibia vs Netherlands,Namibia,Netherlands,JN Frylinck,5,43,48,1,1,89.58,out,caught
+1298139,Namibia vs Netherlands,Namibia,Netherlands,MG Erasmus,6,16,18,0,0,88.89,out,bowled
+1298139,Namibia vs Netherlands,Namibia,Netherlands,D Wiese,7,11,5,1,0,220.0,not out,
+1298139,Namibia vs Netherlands,Namibia,Netherlands,JJ Smit,8,5,4,1,0,125.0,not out,
+1298139,Namibia vs Netherlands,Netherlands,Namibia,MP O'Dowd,1,35,35,1,1,100.0,out,run out
+1298139,Namibia vs Netherlands,Netherlands,Namibia,Vikramjit Singh,2,39,31,3,2,125.81,out,caught
+1298139,Namibia vs Netherlands,Netherlands,Namibia,BFW de Leede,3,30,30,2,0,100.0,not out,
+1298139,Namibia vs Netherlands,Netherlands,Namibia,TLW Cooper,4,6,6,1,0,100.0,out,caught
+1298139,Namibia vs Netherlands,Netherlands,Namibia,CN Ackermann,5,0,2,0,0,0.0,out,caught
+1298139,Namibia vs Netherlands,Netherlands,Namibia,SA Edwards,6,1,5,0,0,20.0,out,caught
+1298139,Namibia vs Netherlands,Netherlands,Namibia,TJG Pringle,7,8,9,0,0,88.89,not out,
+1298140,Sri Lanka vs United Arab Emirates,Sri Lanka,United Arab Emirates,P Nissanka,1,74,60,6,2,123.33,out,caught
+1298140,Sri Lanka vs United Arab Emirates,Sri Lanka,United Arab Emirates,BKG Mendis,2,18,13,2,0,138.46,out,lbw
+1298140,Sri Lanka vs United Arab Emirates,Sri Lanka,United Arab Emirates,DM de Silva,3,33,21,3,1,157.14,not out,
+1298140,Sri Lanka vs United Arab Emirates,Sri Lanka,United Arab Emirates,PBB Rajapaksa,4,5,8,0,0,62.5,out,caught
+1298140,Sri Lanka vs United Arab Emirates,Sri Lanka,United Arab Emirates,KIC Asalanka,5,0,1,0,0,0.0,out,caught
+1298140,Sri Lanka vs United Arab Emirates,Sri Lanka,United Arab Emirates,MD Shanaka,6,0,1,0,0,0.0,out,bowled
+1298140,Sri Lanka vs United Arab Emirates,Sri Lanka,United Arab Emirates,PWH de Silva,7,2,3,0,0,66.67,out,caught
+1298140,Sri Lanka vs United Arab Emirates,Sri Lanka,United Arab Emirates,C Karunaratne,8,8,11,1,0,72.73,out,caught
+1298140,Sri Lanka vs United Arab Emirates,Sri Lanka,United Arab Emirates,PM Liyanagamage,9,1,1,0,0,100.0,not out,
+1298140,Sri Lanka vs United Arab Emirates,Sri Lanka,United Arab Emirates,PVD Chameera,10,1,1,0,0,100.0,not out,
+1298140,Sri Lanka vs United Arab Emirates,United Arab Emirates,Sri Lanka,Waseem Muhammad,1,2,4,0,0,50.0,out,bowled
+1298140,Sri Lanka vs United Arab Emirates,United Arab Emirates,Sri Lanka,Chirag Suri,2,14,19,3,0,73.68,out,bowled
+1298140,Sri Lanka vs United Arab Emirates,United Arab Emirates,Sri Lanka,Aryan Lakra,3,1,3,0,0,33.33,out,bowled
+1298140,Sri Lanka vs United Arab Emirates,United Arab Emirates,Sri Lanka,CP Rizwan,4,1,3,0,0,33.33,out,caught
+1298140,Sri Lanka vs United Arab Emirates,United Arab Emirates,Sri Lanka,V Aravind,5,9,18,1,0,50.0,out,lbw
+1298140,Sri Lanka vs United Arab Emirates,United Arab Emirates,Sri Lanka,Basil Hameed,6,2,6,0,0,33.33,out,caught
+1298140,Sri Lanka vs United Arab Emirates,United Arab Emirates,Sri Lanka,Aayan Afzal Khan,7,19,21,1,0,90.48,out,bowled
+1298140,Sri Lanka vs United Arab Emirates,United Arab Emirates,Sri Lanka,Kashif Daud,8,0,4,0,0,0.0,out,lbw
+1298140,Sri Lanka vs United Arab Emirates,United Arab Emirates,Sri Lanka,KP Meiyappan,9,4,8,0,0,50.0,out,stumped
+1298140,Sri Lanka vs United Arab Emirates,United Arab Emirates,Sri Lanka,Junaid Siddique,10,18,16,1,1,112.5,out,caught
+1298140,Sri Lanka vs United Arab Emirates,United Arab Emirates,Sri Lanka,Zahoor Khan,11,1,1,0,0,100.0,not out,
+1298141,Scotland vs Ireland,Ireland,Scotland,PR Stirling,1,8,10,1,0,80.0,out,caught
+1298141,Scotland vs Ireland,Ireland,Scotland,A Balbirnie,2,14,12,2,0,116.67,out,caught
+1298141,Scotland vs Ireland,Ireland,Scotland,L Tucker,3,20,17,2,0,117.65,out,caught
+1298141,Scotland vs Ireland,Ireland,Scotland,HT Tector,4,14,16,1,0,87.5,out,caught
+1298141,Scotland vs Ireland,Ireland,Scotland,C Campher,5,72,32,7,2,225.0,not out,
+1298141,Scotland vs Ireland,Ireland,Scotland,GH Dockrell,6,39,27,4,1,144.44,not out,
+1298141,Scotland vs Ireland,Scotland,Ireland,HG Munsey,1,1,2,0,0,50.0,out,lbw
+1298141,Scotland vs Ireland,Scotland,Ireland,MA Jones,2,86,55,6,4,156.36,out,caught
+1298141,Scotland vs Ireland,Scotland,Ireland,MH Cross,3,28,21,5,0,133.33,out,caught
+1298141,Scotland vs Ireland,Scotland,Ireland,RD Berrington,4,37,27,3,1,137.04,out,caught
+1298141,Scotland vs Ireland,Scotland,Ireland,MA Leask,5,17,13,2,0,130.77,not out,
+1298141,Scotland vs Ireland,Scotland,Ireland,CS MacLeod,6,0,3,0,0,0.0,not out,
+1298142,West Indies vs Zimbabwe,West Indies,Zimbabwe,KR Mayers,1,13,12,2,0,108.33,out,caught
+1298142,West Indies vs Zimbabwe,West Indies,Zimbabwe,J Charles,2,45,36,3,2,125.0,not out,
+1298142,West Indies vs Zimbabwe,West Indies,Zimbabwe,E Lewis,3,15,18,1,0,83.33,out,caught
+1298142,West Indies vs Zimbabwe,West Indies,Zimbabwe,N Pooran,4,7,9,0,0,77.78,out,caught and bowled
+1298142,West Indies vs Zimbabwe,West Indies,Zimbabwe,R Powell,5,28,21,1,2,133.33,out,caught
+1298142,West Indies vs Zimbabwe,West Indies,Zimbabwe,SSJ Brooks,6,0,3,0,0,0.0,out,lbw
+1298142,West Indies vs Zimbabwe,West Indies,Zimbabwe,JO Holder,7,4,3,0,0,133.33,out,caught and bowled
+1298142,West Indies vs Zimbabwe,West Indies,Zimbabwe,AJ Hosein,8,23,18,2,0,127.78,not out,
+1298142,West Indies vs Zimbabwe,West Indies,Zimbabwe,OF Smith,9,1,2,0,0,50.0,not out,
+1298142,West Indies vs Zimbabwe,Zimbabwe,West Indies,W Madhevere,1,27,19,3,1,142.11,out,caught
+1298142,West Indies vs Zimbabwe,Zimbabwe,West Indies,RW Chakabva,2,13,9,3,0,144.44,out,bowled
+1298142,West Indies vs Zimbabwe,Zimbabwe,West Indies,T Munyonga,3,2,6,0,0,33.33,out,bowled
+1298142,West Indies vs Zimbabwe,Zimbabwe,West Indies,SC Williams,4,1,2,0,0,50.0,out,caught
+1298142,West Indies vs Zimbabwe,Zimbabwe,West Indies,Sikandar Raza,5,14,8,1,1,175.0,out,caught
+1298142,West Indies vs Zimbabwe,Zimbabwe,West Indies,M Shumba,6,2,9,0,0,22.22,out,caught
+1298142,West Indies vs Zimbabwe,Zimbabwe,West Indies,RP Burl,7,17,19,3,0,89.47,out,lbw
+1298142,West Indies vs Zimbabwe,Zimbabwe,West Indies,LM Jongwe,8,29,22,3,1,131.82,out,bowled
+1298142,West Indies vs Zimbabwe,Zimbabwe,West Indies,R Ngarava,9,2,6,0,0,33.33,out,bowled
+1298142,West Indies vs Zimbabwe,Zimbabwe,West Indies,TL Chatara,10,3,8,0,0,37.5,out,bowled
+1298142,West Indies vs Zimbabwe,Zimbabwe,West Indies,B Muzarabani,11,1,4,0,0,25.0,not out,
+1298143,Sri Lanka vs Netherlands,Netherlands,Sri Lanka,MP O'Dowd,1,71,53,6,3,133.96,not out,
+1298143,Sri Lanka vs Netherlands,Netherlands,Sri Lanka,Vikramjit Singh,2,7,14,0,0,50.0,out,caught
+1298143,Sri Lanka vs Netherlands,Netherlands,Sri Lanka,BFW de Leede,3,14,10,1,1,140.0,out,caught
+1298143,Sri Lanka vs Netherlands,Netherlands,Sri Lanka,CN Ackermann,4,0,1,0,0,0.0,out,caught and bowled
+1298143,Sri Lanka vs Netherlands,Netherlands,Sri Lanka,TLW Cooper,5,16,19,2,0,84.21,out,bowled
+1298143,Sri Lanka vs Netherlands,Netherlands,Sri Lanka,SA Edwards,6,21,15,3,0,140.0,out,bowled
+1298143,Sri Lanka vs Netherlands,Netherlands,Sri Lanka,TJG Pringle,7,2,4,0,0,50.0,not out,
+1298143,Sri Lanka vs Netherlands,Netherlands,Sri Lanka,T van der Gugten,8,0,1,0,0,0.0,out,bowled
+1298143,Sri Lanka vs Netherlands,Netherlands,Sri Lanka,FJ Klaassen,9,3,3,0,0,100.0,out,bowled
+1298143,Sri Lanka vs Netherlands,Netherlands,Sri Lanka,RE van der Merwe,10,0,1,0,0,0.0,not out,
+1298143,Sri Lanka vs Netherlands,Sri Lanka,Netherlands,P Nissanka,1,14,21,0,1,66.67,out,bowled
+1298143,Sri Lanka vs Netherlands,Sri Lanka,Netherlands,BKG Mendis,2,79,44,5,5,179.55,out,caught
+1298143,Sri Lanka vs Netherlands,Sri Lanka,Netherlands,DM de Silva,3,0,1,0,0,0.0,out,lbw
+1298143,Sri Lanka vs Netherlands,Sri Lanka,Netherlands,KIC Asalanka,4,31,30,3,0,103.33,out,caught
+1298143,Sri Lanka vs Netherlands,Sri Lanka,Netherlands,PBB Rajapaksa,5,19,13,2,0,146.15,out,caught
+1298143,Sri Lanka vs Netherlands,Sri Lanka,Netherlands,MD Shanaka,6,8,5,0,1,160.0,out,caught
+1298143,Sri Lanka vs Netherlands,Sri Lanka,Netherlands,PWH de Silva,7,5,4,0,0,125.0,not out,
+1298143,Sri Lanka vs Netherlands,Sri Lanka,Netherlands,C Karunaratne,8,2,2,0,0,100.0,not out,
+1298144,United Arab Emirates vs Namibia,Namibia,United Arab Emirates,M van Lingen,1,10,8,1,0,125.0,out,caught
+1298144,United Arab Emirates vs Namibia,Namibia,United Arab Emirates,SJ Baard,2,4,6,1,0,66.67,out,caught
+1298144,United Arab Emirates vs Namibia,Namibia,United Arab Emirates,JN Loftie-Eaton,3,1,6,0,0,16.67,out,lbw
+1298144,United Arab Emirates vs Namibia,Namibia,United Arab Emirates,MG Erasmus,4,16,18,2,0,88.89,out,bowled
+1298144,United Arab Emirates vs Namibia,Namibia,United Arab Emirates,JN Frylinck,5,14,17,1,0,82.35,out,bowled
+1298144,United Arab Emirates vs Namibia,Namibia,United Arab Emirates,JJ Smit,6,3,3,0,0,100.0,out,run out
+1298144,United Arab Emirates vs Namibia,Namibia,United Arab Emirates,D Wiese,7,55,36,3,3,152.78,out,caught
+1298144,United Arab Emirates vs Namibia,Namibia,United Arab Emirates,ZE Green,8,2,3,0,0,66.67,out,bowled
+1298144,United Arab Emirates vs Namibia,Namibia,United Arab Emirates,R Trumpelmann,9,25,24,1,1,104.17,not out,
+1298144,United Arab Emirates vs Namibia,Namibia,United Arab Emirates,BM Scholtz,10,1,1,0,0,100.0,not out,
+1298144,United Arab Emirates vs Namibia,United Arab Emirates,Namibia,Waseem Muhammad,1,50,41,1,3,121.95,out,caught
+1298144,United Arab Emirates vs Namibia,United Arab Emirates,Namibia,V Aravind,2,21,32,2,0,65.62,out,caught
+1298144,United Arab Emirates vs Namibia,United Arab Emirates,Namibia,CP Rizwan,3,43,29,3,1,148.28,not out,
+1298144,United Arab Emirates vs Namibia,United Arab Emirates,Namibia,A Sharafu,4,4,4,0,0,100.0,out,caught
+1298144,United Arab Emirates vs Namibia,United Arab Emirates,Namibia,Basil Hameed,5,25,14,2,2,178.57,not out,
+1298145,West Indies vs Ireland,Ireland,West Indies,PR Stirling,1,66,48,6,2,137.5,not out,
+1298145,West Indies vs Ireland,Ireland,West Indies,A Balbirnie,2,37,23,3,3,160.87,out,caught
+1298145,West Indies vs Ireland,Ireland,West Indies,L Tucker,3,45,35,2,2,128.57,not out,
+1298145,West Indies vs Ireland,West Indies,Ireland,KR Mayers,1,1,5,0,0,20.0,out,caught
+1298145,West Indies vs Ireland,West Indies,Ireland,J Charles,2,24,18,3,1,133.33,out,caught
+1298145,West Indies vs Ireland,West Indies,Ireland,E Lewis,3,13,18,0,0,72.22,out,caught
+1298145,West Indies vs Ireland,West Indies,Ireland,BA King,4,62,48,6,1,129.17,not out,
+1298145,West Indies vs Ireland,West Indies,Ireland,N Pooran,5,13,11,0,1,118.18,out,caught
+1298145,West Indies vs Ireland,West Indies,Ireland,R Powell,6,6,8,1,0,75.0,out,caught
+1298145,West Indies vs Ireland,West Indies,Ireland,OF Smith,7,19,12,1,2,158.33,not out,
+1298146,Scotland vs Zimbabwe,Scotland,Zimbabwe,HG Munsey,1,54,51,7,0,105.88,out,caught
+1298146,Scotland vs Zimbabwe,Scotland,Zimbabwe,MA Jones,2,4,5,1,0,80.0,out,caught
+1298146,Scotland vs Zimbabwe,Scotland,Zimbabwe,MH Cross,3,1,7,0,0,14.29,out,caught
+1298146,Scotland vs Zimbabwe,Scotland,Zimbabwe,RD Berrington,4,13,15,0,0,86.67,out,caught
+1298146,Scotland vs Zimbabwe,Scotland,Zimbabwe,CS MacLeod,5,25,26,1,0,96.15,out,caught
+1298146,Scotland vs Zimbabwe,Scotland,Zimbabwe,MA Leask,6,12,9,2,0,133.33,out,bowled
+1298146,Scotland vs Zimbabwe,Scotland,Zimbabwe,CN Greaves,7,3,7,0,0,42.86,not out,
+1298146,Scotland vs Zimbabwe,Scotland,Zimbabwe,JH Davey,8,4,3,0,0,133.33,not out,
+1298146,Scotland vs Zimbabwe,Zimbabwe,Scotland,RW Chakabva,1,4,3,1,0,133.33,out,lbw
+1298146,Scotland vs Zimbabwe,Zimbabwe,Scotland,W Madhevere,2,0,5,0,0,0.0,out,bowled
+1298146,Scotland vs Zimbabwe,Zimbabwe,Scotland,CR Ervine,3,58,54,6,0,107.41,out,caught
+1298146,Scotland vs Zimbabwe,Zimbabwe,Scotland,SC Williams,4,7,12,0,0,58.33,out,caught
+1298146,Scotland vs Zimbabwe,Zimbabwe,Scotland,Sikandar Raza,5,40,23,3,2,173.91,out,caught
+1298146,Scotland vs Zimbabwe,Zimbabwe,Scotland,M Shumba,6,11,11,0,0,100.0,not out,
+1298146,Scotland vs Zimbabwe,Zimbabwe,Scotland,RP Burl,7,9,5,1,0,180.0,not out,
+1298147,New Zealand vs Australia,Australia,New Zealand,DA Warner,1,5,6,1,0,83.33,out,bowled
+1298147,New Zealand vs Australia,Australia,New Zealand,AJ Finch,2,13,11,1,1,118.18,out,caught
+1298147,New Zealand vs Australia,Australia,New Zealand,MR Marsh,3,16,12,2,1,133.33,out,caught
+1298147,New Zealand vs Australia,Australia,New Zealand,MP Stoinis,4,7,14,0,0,50.0,out,caught
+1298147,New Zealand vs Australia,Australia,New Zealand,GJ Maxwell,5,28,20,3,1,140.0,out,bowled
+1298147,New Zealand vs Australia,Australia,New Zealand,TH David,6,11,8,0,1,137.5,out,caught
+1298147,New Zealand vs Australia,Australia,New Zealand,MS Wade,7,2,4,0,0,50.0,out,caught
+1298147,New Zealand vs Australia,Australia,New Zealand,PJ Cummins,8,21,18,2,1,116.67,out,caught
+1298147,New Zealand vs Australia,Australia,New Zealand,MA Starc,9,4,7,0,0,57.14,out,bowled
+1298147,New Zealand vs Australia,Australia,New Zealand,A Zampa,10,0,2,0,0,0.0,out,bowled
+1298147,New Zealand vs Australia,Australia,New Zealand,JR Hazlewood,11,1,1,0,0,100.0,not out,
+1298147,New Zealand vs Australia,New Zealand,Australia,FH Allen,1,42,16,5,3,262.5,out,bowled
+1298147,New Zealand vs Australia,New Zealand,Australia,DP Conway,2,92,58,7,2,158.62,not out,
+1298147,New Zealand vs Australia,New Zealand,Australia,KS Williamson,3,23,23,1,1,100.0,out,lbw
+1298147,New Zealand vs Australia,New Zealand,Australia,GD Phillips,4,12,10,2,0,120.0,out,caught and bowled
+1298147,New Zealand vs Australia,New Zealand,Australia,JDS Neesham,5,26,13,0,2,200.0,not out,
+1298149,Ireland vs Sri Lanka,Ireland,Sri Lanka,PR Stirling,1,34,25,4,1,136.0,out,caught
+1298149,Ireland vs Sri Lanka,Ireland,Sri Lanka,A Balbirnie,2,1,5,0,0,20.0,out,bowled
+1298149,Ireland vs Sri Lanka,Ireland,Sri Lanka,L Tucker,3,10,11,1,0,90.91,out,bowled
+1298149,Ireland vs Sri Lanka,Ireland,Sri Lanka,HT Tector,4,45,42,2,1,107.14,out,caught
+1298149,Ireland vs Sri Lanka,Ireland,Sri Lanka,C Campher,5,2,4,0,0,50.0,out,caught
+1298149,Ireland vs Sri Lanka,Ireland,Sri Lanka,GH Dockrell,6,14,16,0,0,87.5,out,bowled
+1298149,Ireland vs Sri Lanka,Ireland,Sri Lanka,GJ Delany,7,9,6,1,0,150.0,out,caught
+1298149,Ireland vs Sri Lanka,Ireland,Sri Lanka,Simi Singh,8,7,8,1,0,87.5,not out,
+1298149,Ireland vs Sri Lanka,Ireland,Sri Lanka,MR Adair,9,0,1,0,0,0.0,out,caught
+1298149,Ireland vs Sri Lanka,Ireland,Sri Lanka,BJ McCarthy,10,2,2,0,0,100.0,not out,
+1298149,Ireland vs Sri Lanka,Sri Lanka,Ireland,BKG Mendis,1,68,43,5,3,158.14,not out,
+1298149,Ireland vs Sri Lanka,Sri Lanka,Ireland,DM de Silva,2,31,25,2,1,124.0,out,caught
+1298149,Ireland vs Sri Lanka,Sri Lanka,Ireland,KIC Asalanka,3,31,22,2,0,140.91,not out,
+1298150,Pakistan vs India,India,Pakistan,KL Rahul,1,4,8,0,0,50.0,out,bowled
+1298150,Pakistan vs India,India,Pakistan,RG Sharma,2,4,7,0,0,57.14,out,caught
+1298150,Pakistan vs India,India,Pakistan,V Kohli,3,82,53,6,4,154.72,not out,
+1298150,Pakistan vs India,India,Pakistan,SA Yadav,4,15,10,2,0,150.0,out,caught
+1298150,Pakistan vs India,India,Pakistan,AR Patel,5,2,3,0,0,66.67,out,run out
+1298150,Pakistan vs India,India,Pakistan,HH Pandya,6,40,37,1,2,108.11,out,caught
+1298150,Pakistan vs India,India,Pakistan,KD Karthik,7,1,2,0,0,50.0,out,stumped
+1298150,Pakistan vs India,India,Pakistan,R Ashwin,8,1,1,0,0,100.0,not out,
+1298150,Pakistan vs India,Pakistan,India,Mohammad Rizwan,1,4,12,1,0,33.33,out,caught
+1298150,Pakistan vs India,Pakistan,India,Babar Azam,2,0,1,0,0,0.0,out,lbw
+1298150,Pakistan vs India,Pakistan,India,Shan Masood,3,52,42,5,0,123.81,not out,
+1298150,Pakistan vs India,Pakistan,India,Iftikhar Ahmed,4,51,34,2,4,150.0,out,lbw
+1298150,Pakistan vs India,Pakistan,India,Shadab Khan,5,5,6,1,0,83.33,out,caught
+1298150,Pakistan vs India,Pakistan,India,Haider Ali,6,2,4,0,0,50.0,out,caught
+1298150,Pakistan vs India,Pakistan,India,Mohammad Nawaz,7,9,6,2,0,150.0,out,caught
+1298150,Pakistan vs India,Pakistan,India,Asif Ali,8,2,3,0,0,66.67,out,caught
+1298150,Pakistan vs India,Pakistan,India,Shaheen Shah Afridi,9,16,8,1,1,200.0,out,caught and bowled
+1298150,Pakistan vs India,Pakistan,India,Haris Rauf,10,6,4,0,1,150.0,not out,
+1298151,Bangladesh vs Netherlands,Bangladesh,Netherlands,Nazmul Hossain Shanto,1,25,20,4,0,125.0,out,caught
+1298151,Bangladesh vs Netherlands,Bangladesh,Netherlands,Soumya Sarkar,2,14,14,2,0,100.0,out,caught
+1298151,Bangladesh vs Netherlands,Bangladesh,Netherlands,Liton Das,3,9,11,0,0,81.82,out,caught
+1298151,Bangladesh vs Netherlands,Bangladesh,Netherlands,Shakib Al Hasan,4,7,9,0,0,77.78,out,caught
+1298151,Bangladesh vs Netherlands,Bangladesh,Netherlands,Afif Hossain,5,38,27,2,2,140.74,out,caught
+1298151,Bangladesh vs Netherlands,Bangladesh,Netherlands,Yasir Ali Chowdhury,6,3,5,0,0,60.0,out,bowled
+1298151,Bangladesh vs Netherlands,Bangladesh,Netherlands,Nurul Hasan,7,13,18,0,0,72.22,out,caught
+1298151,Bangladesh vs Netherlands,Bangladesh,Netherlands,Mosaddek Hossain,8,20,12,2,1,166.67,not out,
+1298151,Bangladesh vs Netherlands,Bangladesh,Netherlands,Taskin Ahmed,9,0,1,0,0,0.0,out,caught
+1298151,Bangladesh vs Netherlands,Bangladesh,Netherlands,Hasan Mahmud,10,0,3,0,0,0.0,not out,
+1298151,Bangladesh vs Netherlands,Netherlands,Bangladesh,Vikramjit Singh,1,0,1,0,0,0.0,out,caught
+1298151,Bangladesh vs Netherlands,Netherlands,Bangladesh,BFW de Leede,2,0,1,0,0,0.0,out,caught
+1298151,Bangladesh vs Netherlands,Netherlands,Bangladesh,CN Ackermann,3,62,48,6,2,129.17,out,caught
+1298151,Bangladesh vs Netherlands,Netherlands,Bangladesh,MP O'Dowd,4,8,8,0,1,100.0,out,run out
+1298151,Bangladesh vs Netherlands,Netherlands,Bangladesh,SA Edwards,5,16,24,1,0,66.67,out,caught
+1298151,Bangladesh vs Netherlands,Netherlands,Bangladesh,TJG Pringle,6,1,6,0,0,16.67,out,bowled
+1298151,Bangladesh vs Netherlands,Netherlands,Bangladesh,LV van Beek,7,2,5,0,0,40.0,out,caught
+1298151,Bangladesh vs Netherlands,Netherlands,Bangladesh,Shariz Ahmad,8,9,8,1,0,112.5,out,caught
+1298151,Bangladesh vs Netherlands,Netherlands,Bangladesh,FJ Klaassen,9,7,6,0,0,116.67,not out,
+1298151,Bangladesh vs Netherlands,Netherlands,Bangladesh,PA van Meekeren,10,24,14,3,1,171.43,out,caught
+1298152,Zimbabwe vs South Africa,South Africa,Zimbabwe,Q de Kock,1,47,18,8,1,261.11,not out,
+1298152,Zimbabwe vs South Africa,South Africa,Zimbabwe,T Bavuma,2,2,2,0,0,100.0,not out,
+1298152,Zimbabwe vs South Africa,Zimbabwe,South Africa,RW Chakabva,1,8,8,0,1,100.0,out,caught
+1298152,Zimbabwe vs South Africa,Zimbabwe,South Africa,CR Ervine,2,2,6,0,0,33.33,out,caught
+1298152,Zimbabwe vs South Africa,Zimbabwe,South Africa,Sikandar Raza,3,0,2,0,0,0.0,out,caught
+1298152,Zimbabwe vs South Africa,Zimbabwe,South Africa,W Madhevere,4,35,18,4,1,194.44,not out,
+1298152,Zimbabwe vs South Africa,Zimbabwe,South Africa,SC Williams,5,1,1,0,0,100.0,not out,
+1298152,Zimbabwe vs South Africa,Zimbabwe,South Africa,M Shumba,6,18,20,2,0,90.0,out,caught
+1298153,Sri Lanka vs Australia,Australia,Sri Lanka,DA Warner,1,11,10,0,0,110.0,out,caught
+1298153,Sri Lanka vs Australia,Australia,Sri Lanka,AJ Finch,2,31,42,0,1,73.81,not out,
+1298153,Sri Lanka vs Australia,Australia,Sri Lanka,MR Marsh,3,17,17,1,1,100.0,out,caught
+1298153,Sri Lanka vs Australia,Australia,Sri Lanka,GJ Maxwell,4,23,12,2,2,191.67,out,caught
+1298153,Sri Lanka vs Australia,Australia,Sri Lanka,MP Stoinis,5,59,18,4,6,327.78,not out,
+1298153,Sri Lanka vs Australia,Sri Lanka,Australia,P Nissanka,1,40,45,2,0,88.89,out,run out
+1298153,Sri Lanka vs Australia,Sri Lanka,Australia,BKG Mendis,2,5,6,1,0,83.33,out,caught
+1298153,Sri Lanka vs Australia,Sri Lanka,Australia,DM de Silva,3,26,23,3,0,113.04,out,caught
+1298153,Sri Lanka vs Australia,Sri Lanka,Australia,KIC Asalanka,4,38,25,3,2,152.0,not out,
+1298153,Sri Lanka vs Australia,Sri Lanka,Australia,PBB Rajapaksa,5,7,5,1,0,140.0,out,caught
+1298153,Sri Lanka vs Australia,Sri Lanka,Australia,MD Shanaka,6,3,5,0,0,60.0,out,caught
+1298153,Sri Lanka vs Australia,Sri Lanka,Australia,PWH de Silva,7,1,4,0,0,25.0,out,caught
+1298153,Sri Lanka vs Australia,Sri Lanka,Australia,C Karunaratne,8,14,7,2,0,200.0,not out,
+1298154,Ireland vs England,England,Ireland,JC Buttler,1,0,2,0,0,0.0,out,caught
+1298154,Ireland vs England,England,Ireland,DJ Malan,2,35,37,2,0,94.59,out,caught
+1298154,Ireland vs England,England,Ireland,AD Hales,3,7,5,1,0,140.0,out,caught
+1298154,Ireland vs England,England,Ireland,BA Stokes,4,6,8,0,0,75.0,out,bowled
+1298154,Ireland vs England,England,Ireland,HC Brook,5,18,21,1,0,85.71,out,caught
+1298154,Ireland vs England,England,Ireland,MM Ali,6,24,12,3,1,200.0,not out,
+1298154,Ireland vs England,England,Ireland,LS Livingstone,7,1,2,0,0,50.0,not out,
+1298154,Ireland vs England,Ireland,England,PR Stirling,1,14,8,1,1,175.0,out,caught
+1298154,Ireland vs England,Ireland,England,A Balbirnie,2,62,47,5,2,131.91,out,caught
+1298154,Ireland vs England,Ireland,England,L Tucker,3,34,27,3,1,125.93,not out,
+1298154,Ireland vs England,Ireland,England,HT Tector,4,0,2,0,0,0.0,out,caught
+1298154,Ireland vs England,Ireland,England,C Campher,5,18,11,3,0,163.64,out,caught
+1298154,Ireland vs England,Ireland,England,GH Dockrell,6,0,1,0,0,0.0,out,bowled
+1298154,Ireland vs England,Ireland,England,GJ Delany,7,12,10,1,0,120.0,not out,
+1298154,Ireland vs England,Ireland,England,MR Adair,8,4,4,0,0,100.0,out,caught
+1298154,Ireland vs England,Ireland,England,BJ McCarthy,9,3,3,0,0,100.0,out,bowled
+1298154,Ireland vs England,Ireland,England,F Hand,10,1,2,0,0,50.0,out,bowled
+1298154,Ireland vs England,Ireland,England,J Little,11,0,1,0,0,0.0,out,caught
+1298156,South Africa vs Bangladesh,Bangladesh,South Africa,Nazmul Hossain Shanto,1,9,9,1,0,100.0,out,bowled
+1298156,South Africa vs Bangladesh,Bangladesh,South Africa,Soumya Sarkar,2,15,6,0,2,250.0,out,caught
+1298156,South Africa vs Bangladesh,Bangladesh,South Africa,Liton Das,3,34,31,1,1,109.68,out,caught
+1298156,South Africa vs Bangladesh,Bangladesh,South Africa,Shakib Al Hasan,4,1,4,0,0,25.0,out,lbw
+1298156,South Africa vs Bangladesh,Bangladesh,South Africa,Afif Hossain,5,1,5,0,0,20.0,out,caught
+1298156,South Africa vs Bangladesh,Bangladesh,South Africa,Mehedi Hasan Miraz,6,11,13,0,0,84.62,out,caught
+1298156,South Africa vs Bangladesh,Bangladesh,South Africa,Mosaddek Hossain,7,0,3,0,0,0.0,out,stumped
+1298156,South Africa vs Bangladesh,Bangladesh,South Africa,Nurul Hasan,8,2,6,0,0,33.33,out,caught
+1298156,South Africa vs Bangladesh,Bangladesh,South Africa,Taskin Ahmed,9,10,17,1,0,58.82,out,bowled
+1298156,South Africa vs Bangladesh,Bangladesh,South Africa,Hasan Mahmud,10,0,2,0,0,0.0,not out,
+1298156,South Africa vs Bangladesh,Bangladesh,South Africa,Mustafizur Rahman,11,9,3,0,1,300.0,not out,
+1298156,South Africa vs Bangladesh,South Africa,Bangladesh,T Bavuma,1,2,6,0,0,33.33,out,caught
+1298156,South Africa vs Bangladesh,South Africa,Bangladesh,Q de Kock,2,63,38,7,3,165.79,out,caught
+1298156,South Africa vs Bangladesh,South Africa,Bangladesh,RR Rossouw,3,109,56,7,8,194.64,out,caught
+1298156,South Africa vs Bangladesh,South Africa,Bangladesh,T Stubbs,4,7,7,1,0,100.0,out,caught
+1298156,South Africa vs Bangladesh,South Africa,Bangladesh,AK Markram,5,10,11,1,0,90.91,out,caught
+1298156,South Africa vs Bangladesh,South Africa,Bangladesh,DA Miller,6,2,4,0,0,50.0,not out,
+1298156,South Africa vs Bangladesh,South Africa,Bangladesh,WD Parnell,7,0,2,0,0,0.0,not out,
+1298157,India vs Netherlands,India,Netherlands,KL Rahul,1,9,12,1,0,75.0,out,lbw
+1298157,India vs Netherlands,India,Netherlands,RG Sharma,2,53,39,4,3,135.9,out,caught
+1298157,India vs Netherlands,India,Netherlands,V Kohli,3,62,44,3,2,140.91,not out,
+1298157,India vs Netherlands,India,Netherlands,SA Yadav,4,51,25,7,1,204.0,not out,
+1298157,India vs Netherlands,Netherlands,India,Vikramjit Singh,1,1,9,0,0,11.11,out,bowled
+1298157,India vs Netherlands,Netherlands,India,MP O'Dowd,2,16,10,3,0,160.0,out,bowled
+1298157,India vs Netherlands,Netherlands,India,BFW de Leede,3,16,23,0,0,69.57,out,caught
+1298157,India vs Netherlands,Netherlands,India,CN Ackermann,4,17,21,1,0,80.95,out,caught
+1298157,India vs Netherlands,Netherlands,India,TLW Cooper,5,9,12,0,0,75.0,out,caught
+1298157,India vs Netherlands,Netherlands,India,SA Edwards,6,5,8,0,0,62.5,out,caught
+1298157,India vs Netherlands,Netherlands,India,TJG Pringle,7,20,15,1,1,133.33,out,caught
+1298157,India vs Netherlands,Netherlands,India,LV van Beek,8,3,5,0,0,60.0,out,caught
+1298157,India vs Netherlands,Netherlands,India,Shariz Ahmad,9,16,11,2,0,145.45,not out,
+1298157,India vs Netherlands,Netherlands,India,FJ Klaassen,10,0,1,0,0,0.0,out,lbw
+1298157,India vs Netherlands,Netherlands,India,PA van Meekeren,11,14,6,3,0,233.33,not out,
+1298158,Zimbabwe vs Pakistan,Pakistan,Zimbabwe,Mohammad Rizwan,1,14,16,1,1,87.5,out,bowled
+1298158,Zimbabwe vs Pakistan,Pakistan,Zimbabwe,Babar Azam,2,4,9,1,0,44.44,out,caught
+1298158,Zimbabwe vs Pakistan,Pakistan,Zimbabwe,Shan Masood,3,44,38,3,0,115.79,out,stumped
+1298158,Zimbabwe vs Pakistan,Pakistan,Zimbabwe,Iftikhar Ahmed,4,5,10,1,0,50.0,out,caught
+1298158,Zimbabwe vs Pakistan,Pakistan,Zimbabwe,Shadab Khan,5,17,14,0,1,121.43,out,caught
+1298158,Zimbabwe vs Pakistan,Pakistan,Zimbabwe,Haider Ali,6,0,1,0,0,0.0,out,lbw
+1298158,Zimbabwe vs Pakistan,Pakistan,Zimbabwe,Mohammad Nawaz,7,22,18,1,1,122.22,out,caught
+1298158,Zimbabwe vs Pakistan,Pakistan,Zimbabwe,Mohammad Wasim,8,12,13,2,0,92.31,not out,
+1298158,Zimbabwe vs Pakistan,Pakistan,Zimbabwe,Shaheen Shah Afridi,9,1,1,0,0,100.0,out,run out
+1298158,Zimbabwe vs Pakistan,Zimbabwe,Pakistan,W Madhevere,1,17,13,3,0,130.77,out,lbw
+1298158,Zimbabwe vs Pakistan,Zimbabwe,Pakistan,CR Ervine,2,19,19,2,0,100.0,out,caught
+1298158,Zimbabwe vs Pakistan,Zimbabwe,Pakistan,SC Williams,3,31,28,3,0,110.71,out,bowled
+1298158,Zimbabwe vs Pakistan,Zimbabwe,Pakistan,M Shumba,4,8,10,1,0,80.0,out,caught and bowled
+1298158,Zimbabwe vs Pakistan,Zimbabwe,Pakistan,Sikandar Raza,5,9,16,1,0,56.25,out,caught
+1298158,Zimbabwe vs Pakistan,Zimbabwe,Pakistan,RW Chakabva,6,0,1,0,0,0.0,out,caught
+1298158,Zimbabwe vs Pakistan,Zimbabwe,Pakistan,LM Jongwe,7,0,1,0,0,0.0,out,bowled
+1298158,Zimbabwe vs Pakistan,Zimbabwe,Pakistan,B Evans,8,19,15,0,1,126.67,out,bowled
+1298158,Zimbabwe vs Pakistan,Zimbabwe,Pakistan,RP Burl,9,10,15,0,0,66.67,not out,
+1298158,Zimbabwe vs Pakistan,Zimbabwe,Pakistan,R Ngarava,10,3,2,0,0,150.0,not out,
+1298161,New Zealand vs Sri Lanka,New Zealand,Sri Lanka,FH Allen,1,1,3,0,0,33.33,out,bowled
+1298161,New Zealand vs Sri Lanka,New Zealand,Sri Lanka,DP Conway,2,1,4,0,0,25.0,out,bowled
+1298161,New Zealand vs Sri Lanka,New Zealand,Sri Lanka,KS Williamson,3,8,13,1,0,61.54,out,caught
+1298161,New Zealand vs Sri Lanka,New Zealand,Sri Lanka,GD Phillips,4,104,64,10,4,162.5,out,caught
+1298161,New Zealand vs Sri Lanka,New Zealand,Sri Lanka,DJ Mitchell,5,22,24,0,0,91.67,out,bowled
+1298161,New Zealand vs Sri Lanka,New Zealand,Sri Lanka,JDS Neesham,6,5,8,0,0,62.5,out,caught
+1298161,New Zealand vs Sri Lanka,New Zealand,Sri Lanka,MJ Santner,7,11,5,0,1,220.0,not out,
+1298161,New Zealand vs Sri Lanka,New Zealand,Sri Lanka,IS Sodhi,8,1,1,0,0,100.0,out,run out
+1298161,New Zealand vs Sri Lanka,New Zealand,Sri Lanka,TG Southee,9,4,1,1,0,400.0,not out,
+1298161,New Zealand vs Sri Lanka,Sri Lanka,New Zealand,P Nissanka,1,0,5,0,0,0.0,out,lbw
+1298161,New Zealand vs Sri Lanka,Sri Lanka,New Zealand,DM de Silva,2,0,3,0,0,0.0,out,bowled
+1298161,New Zealand vs Sri Lanka,Sri Lanka,New Zealand,BKG Mendis,3,4,3,1,0,133.33,out,caught
+1298161,New Zealand vs Sri Lanka,Sri Lanka,New Zealand,KIC Asalanka,4,4,8,0,0,50.0,out,caught
+1298161,New Zealand vs Sri Lanka,Sri Lanka,New Zealand,PBB Rajapaksa,5,34,22,3,2,154.55,out,caught
+1298161,New Zealand vs Sri Lanka,Sri Lanka,New Zealand,C Karunaratne,6,3,8,0,0,37.5,out,caught
+1298161,New Zealand vs Sri Lanka,Sri Lanka,New Zealand,MD Shanaka,7,35,32,4,1,109.38,out,caught
+1298161,New Zealand vs Sri Lanka,Sri Lanka,New Zealand,PWH de Silva,8,4,6,1,0,66.67,out,caught
+1298161,New Zealand vs Sri Lanka,Sri Lanka,New Zealand,M Theekshana,9,0,3,0,0,0.0,out,caught
+1298161,New Zealand vs Sri Lanka,Sri Lanka,New Zealand,CAK Rajitha,10,8,21,0,0,38.1,not out,
+1298161,New Zealand vs Sri Lanka,Sri Lanka,New Zealand,CBRLS Kumara,11,4,5,1,0,80.0,out,stumped
+1298162,Bangladesh vs Zimbabwe,Bangladesh,Zimbabwe,Nazmul Hossain Shanto,1,71,55,7,1,129.09,out,caught
+1298162,Bangladesh vs Zimbabwe,Bangladesh,Zimbabwe,Soumya Sarkar,2,0,2,0,0,0.0,out,caught
+1298162,Bangladesh vs Zimbabwe,Bangladesh,Zimbabwe,Liton Das,3,14,12,3,0,116.67,out,caught
+1298162,Bangladesh vs Zimbabwe,Bangladesh,Zimbabwe,Shakib Al Hasan,4,23,20,1,0,115.0,out,caught
+1298162,Bangladesh vs Zimbabwe,Bangladesh,Zimbabwe,Afif Hossain,5,29,19,1,1,152.63,out,lbw
+1298162,Bangladesh vs Zimbabwe,Bangladesh,Zimbabwe,Mosaddek Hossain,6,7,10,0,0,70.0,out,caught
+1298162,Bangladesh vs Zimbabwe,Bangladesh,Zimbabwe,Nurul Hasan,7,1,1,0,0,100.0,not out,
+1298162,Bangladesh vs Zimbabwe,Bangladesh,Zimbabwe,Yasir Ali Chowdhury,8,1,1,0,0,100.0,not out,
+1298162,Bangladesh vs Zimbabwe,Zimbabwe,Bangladesh,W Madhevere,1,4,3,1,0,133.33,out,caught
+1298162,Bangladesh vs Zimbabwe,Zimbabwe,Bangladesh,M Shumba,2,8,15,1,0,53.33,out,caught
+1298162,Bangladesh vs Zimbabwe,Zimbabwe,Bangladesh,CR Ervine,3,8,7,2,0,114.29,out,caught
+1298162,Bangladesh vs Zimbabwe,Zimbabwe,Bangladesh,SC Williams,4,64,42,8,0,152.38,out,run out
+1298162,Bangladesh vs Zimbabwe,Zimbabwe,Bangladesh,Sikandar Raza,5,0,3,0,0,0.0,out,caught
+1298162,Bangladesh vs Zimbabwe,Zimbabwe,Bangladesh,RW Chakabva,6,15,19,0,0,78.95,out,caught
+1298162,Bangladesh vs Zimbabwe,Zimbabwe,Bangladesh,RP Burl,7,27,25,2,1,108.0,not out,
+1298162,Bangladesh vs Zimbabwe,Zimbabwe,Bangladesh,B Evans,8,2,2,0,0,100.0,out,caught
+1298162,Bangladesh vs Zimbabwe,Zimbabwe,Bangladesh,R Ngarava,9,6,3,0,1,200.0,out,stumped
+1298162,Bangladesh vs Zimbabwe,Zimbabwe,Bangladesh,B Muzarabani,10,0,2,0,0,0.0,not out,
+1298163,Netherlands vs Pakistan,Netherlands,Pakistan,SJ Myburgh,1,6,11,1,0,54.55,out,caught
+1298163,Netherlands vs Pakistan,Netherlands,Pakistan,MP O'Dowd,2,8,13,0,0,61.54,out,lbw
+1298163,Netherlands vs Pakistan,Netherlands,Pakistan,BFW de Leede,3,6,16,1,0,37.5,out,retired hurt
+1298163,Netherlands vs Pakistan,Netherlands,Pakistan,TLW Cooper,4,1,2,0,0,50.0,out,caught
+1298163,Netherlands vs Pakistan,Netherlands,Pakistan,CN Ackermann,5,27,27,2,0,100.0,out,lbw
+1298163,Netherlands vs Pakistan,Netherlands,Pakistan,SA Edwards,6,15,20,1,0,75.0,out,caught
+1298163,Netherlands vs Pakistan,Netherlands,Pakistan,RE van der Merwe,7,5,6,0,0,83.33,out,bowled
+1298163,Netherlands vs Pakistan,Netherlands,Pakistan,TJG Pringle,8,5,8,0,0,62.5,out,bowled
+1298163,Netherlands vs Pakistan,Netherlands,Pakistan,LV van Beek,9,6,9,0,0,66.67,not out,
+1298163,Netherlands vs Pakistan,Netherlands,Pakistan,FJ Klaassen,10,0,1,0,0,0.0,out,bowled
+1298163,Netherlands vs Pakistan,Netherlands,Pakistan,PA van Meekeren,11,7,7,0,0,100.0,out,run out
+1298163,Netherlands vs Pakistan,Pakistan,Netherlands,Mohammad Rizwan,1,49,39,5,0,125.64,out,caught
+1298163,Netherlands vs Pakistan,Pakistan,Netherlands,Babar Azam,2,4,5,1,0,80.0,out,run out
+1298163,Netherlands vs Pakistan,Pakistan,Netherlands,Fakhar Zaman,3,20,16,3,0,125.0,out,caught
+1298163,Netherlands vs Pakistan,Pakistan,Netherlands,Shan Masood,4,12,16,0,0,75.0,out,caught
+1298163,Netherlands vs Pakistan,Pakistan,Netherlands,Iftikhar Ahmed,5,6,5,1,0,120.0,not out,
+1298163,Netherlands vs Pakistan,Pakistan,Netherlands,Shadab Khan,6,4,2,1,0,200.0,not out,
+1298164,India vs South Africa,India,South Africa,KL Rahul,1,9,14,0,1,64.29,out,caught
+1298164,India vs South Africa,India,South Africa,RG Sharma,2,15,14,1,1,107.14,out,caught and bowled
+1298164,India vs South Africa,India,South Africa,V Kohli,3,12,11,2,0,109.09,out,caught
+1298164,India vs South Africa,India,South Africa,SA Yadav,4,68,40,6,3,170.0,out,caught
+1298164,India vs South Africa,India,South Africa,DJ Hooda,5,0,3,0,0,0.0,out,caught
+1298164,India vs South Africa,India,South Africa,HH Pandya,6,2,3,0,0,66.67,out,caught
+1298164,India vs South Africa,India,South Africa,KD Karthik,7,6,15,0,0,40.0,out,caught
+1298164,India vs South Africa,India,South Africa,R Ashwin,8,7,11,0,0,63.64,out,caught
+1298164,India vs South Africa,India,South Africa,B Kumar,9,4,6,0,0,66.67,not out,
+1298164,India vs South Africa,India,South Africa,Mohammed Shami,10,0,2,0,0,0.0,out,run out
+1298164,India vs South Africa,India,South Africa,Arshdeep Singh,11,2,1,0,0,200.0,not out,
+1298164,India vs South Africa,South Africa,India,Q de Kock,1,1,3,0,0,33.33,out,caught
+1298164,India vs South Africa,South Africa,India,T Bavuma,2,10,15,0,1,66.67,out,caught
+1298164,India vs South Africa,South Africa,India,RR Rossouw,3,0,2,0,0,0.0,out,lbw
+1298164,India vs South Africa,South Africa,India,AK Markram,4,52,41,6,1,126.83,out,caught
+1298164,India vs South Africa,South Africa,India,DA Miller,5,59,46,4,3,128.26,not out,
+1298164,India vs South Africa,South Africa,India,T Stubbs,6,6,6,1,0,100.0,out,lbw
+1298164,India vs South Africa,South Africa,India,WD Parnell,7,2,5,0,0,40.0,not out,
+1298165,Australia vs Ireland,Australia,Ireland,DA Warner,1,3,7,0,0,42.86,out,caught
+1298165,Australia vs Ireland,Australia,Ireland,AJ Finch,2,63,44,5,3,143.18,out,caught
+1298165,Australia vs Ireland,Australia,Ireland,MR Marsh,3,28,22,2,2,127.27,out,caught
+1298165,Australia vs Ireland,Australia,Ireland,GJ Maxwell,4,13,9,0,1,144.44,out,caught
+1298165,Australia vs Ireland,Australia,Ireland,MP Stoinis,5,35,25,3,1,140.0,out,caught
+1298165,Australia vs Ireland,Australia,Ireland,TH David,6,15,10,2,0,150.0,not out,
+1298165,Australia vs Ireland,Australia,Ireland,MS Wade,7,7,3,1,0,233.33,not out,
+1298165,Australia vs Ireland,Ireland,Australia,PR Stirling,1,11,7,1,1,157.14,out,caught
+1298165,Australia vs Ireland,Ireland,Australia,A Balbirnie,2,6,7,0,1,85.71,out,bowled
+1298165,Australia vs Ireland,Ireland,Australia,HT Tector,3,6,4,1,0,150.0,out,caught
+1298165,Australia vs Ireland,Ireland,Australia,L Tucker,4,71,48,9,1,147.92,not out,
+1298165,Australia vs Ireland,Ireland,Australia,C Campher,5,0,1,0,0,0.0,out,bowled
+1298165,Australia vs Ireland,Ireland,Australia,GH Dockrell,6,0,4,0,0,0.0,out,bowled
+1298165,Australia vs Ireland,Ireland,Australia,GJ Delany,7,14,10,2,0,140.0,out,caught
+1298165,Australia vs Ireland,Ireland,Australia,MR Adair,8,11,11,1,0,100.0,out,stumped
+1298165,Australia vs Ireland,Ireland,Australia,F Hand,9,6,6,1,0,100.0,out,bowled
+1298165,Australia vs Ireland,Ireland,Australia,BJ McCarthy,10,3,7,0,0,42.86,out,caught
+1298165,Australia vs Ireland,Ireland,Australia,J Little,11,1,5,0,0,20.0,out,run out
+1298167,England vs New Zealand,England,New Zealand,JC Buttler,1,73,47,7,2,155.32,not out,
+1298167,England vs New Zealand,England,New Zealand,AD Hales,2,52,40,7,1,130.0,out,stumped
+1298167,England vs New Zealand,England,New Zealand,MM Ali,3,5,6,0,0,83.33,out,caught
+1298167,England vs New Zealand,England,New Zealand,LS Livingstone,4,20,14,1,1,142.86,out,bowled
+1298167,England vs New Zealand,England,New Zealand,HC Brook,5,7,3,0,1,233.33,out,caught
+1298167,England vs New Zealand,England,New Zealand,BA Stokes,6,8,7,0,0,114.29,out,lbw
+1298167,England vs New Zealand,England,New Zealand,SM Curran,7,6,3,0,1,200.0,not out,
+1298167,England vs New Zealand,England,New Zealand,DJ Malan,8,3,1,0,0,300.0,not out,
+1298167,England vs New Zealand,New Zealand,England,FH Allen,1,16,11,0,1,145.45,out,caught
+1298167,England vs New Zealand,New Zealand,England,DP Conway,2,3,9,0,0,33.33,out,caught
+1298167,England vs New Zealand,New Zealand,England,KS Williamson,3,40,40,3,0,100.0,out,caught
+1298167,England vs New Zealand,New Zealand,England,GD Phillips,4,62,36,4,3,172.22,out,caught
+1298167,England vs New Zealand,New Zealand,England,JDS Neesham,5,6,3,1,0,200.0,out,caught
+1298167,England vs New Zealand,New Zealand,England,DJ Mitchell,6,3,5,0,0,60.0,out,caught
+1298167,England vs New Zealand,New Zealand,England,MJ Santner,7,16,10,0,1,160.0,not out,
+1298167,England vs New Zealand,New Zealand,England,IS Sodhi,8,6,6,0,0,100.0,not out,
+1298168,Zimbabwe vs Netherlands,Netherlands,Zimbabwe,SJ Myburgh,1,8,7,0,1,114.29,out,caught
+1298168,Zimbabwe vs Netherlands,Netherlands,Zimbabwe,MP O'Dowd,2,52,47,8,1,110.64,out,caught
+1298168,Zimbabwe vs Netherlands,Netherlands,Zimbabwe,TLW Cooper,3,32,29,2,1,110.34,out,caught
+1298168,Zimbabwe vs Netherlands,Netherlands,Zimbabwe,CN Ackermann,4,1,5,0,0,20.0,out,caught
+1298168,Zimbabwe vs Netherlands,Netherlands,Zimbabwe,BFW de Leede,5,12,12,2,0,100.0,not out,
+1298168,Zimbabwe vs Netherlands,Netherlands,Zimbabwe,SA Edwards,6,5,6,1,0,83.33,out,caught
+1298168,Zimbabwe vs Netherlands,Netherlands,Zimbabwe,RE van der Merwe,7,0,3,0,0,0.0,not out,
+1298168,Zimbabwe vs Netherlands,Zimbabwe,Netherlands,W Madhevere,1,1,5,0,0,20.0,out,bowled
+1298168,Zimbabwe vs Netherlands,Zimbabwe,Netherlands,CR Ervine,2,3,12,0,0,25.0,out,caught
+1298168,Zimbabwe vs Netherlands,Zimbabwe,Netherlands,RW Chakabva,3,5,16,1,0,31.25,out,lbw
+1298168,Zimbabwe vs Netherlands,Zimbabwe,Netherlands,SC Williams,4,28,23,3,0,121.74,out,caught
+1298168,Zimbabwe vs Netherlands,Zimbabwe,Netherlands,Sikandar Raza,5,40,24,3,3,166.67,out,caught
+1298168,Zimbabwe vs Netherlands,Zimbabwe,Netherlands,M Shumba,6,2,3,0,0,66.67,out,caught
+1298168,Zimbabwe vs Netherlands,Zimbabwe,Netherlands,RP Burl,7,2,7,0,0,28.57,out,bowled
+1298168,Zimbabwe vs Netherlands,Zimbabwe,Netherlands,LM Jongwe,8,6,8,0,0,75.0,out,caught
+1298168,Zimbabwe vs Netherlands,Zimbabwe,Netherlands,R Ngarava,9,9,7,0,1,128.57,out,caught
+1298168,Zimbabwe vs Netherlands,Zimbabwe,Netherlands,TL Chatara,10,6,7,0,0,85.71,not out,
+1298168,Zimbabwe vs Netherlands,Zimbabwe,Netherlands,B Muzarabani,11,1,4,0,0,25.0,out,caught
+1298169,India vs Bangladesh,Bangladesh,India,Nazmul Hossain Shanto,1,21,25,1,1,84.0,out,caught
+1298169,India vs Bangladesh,Bangladesh,India,Liton Das,2,60,27,7,3,222.22,not out,
+1298169,India vs Bangladesh,Bangladesh,India,Shakib Al Hasan,3,13,12,2,0,108.33,out,caught
+1298169,India vs Bangladesh,Bangladesh,India,Afif Hossain,4,3,5,0,0,60.0,out,caught
+1298169,India vs Bangladesh,Bangladesh,India,Yasir Ali Chowdhury,5,1,3,0,0,33.33,out,caught
+1298169,India vs Bangladesh,Bangladesh,India,Nurul Hasan,6,25,14,2,1,178.57,not out,
+1298169,India vs Bangladesh,Bangladesh,India,Mosaddek Hossain,7,6,3,0,1,200.0,out,bowled
+1298169,India vs Bangladesh,Bangladesh,India,Taskin Ahmed,8,12,7,1,1,171.43,not out,
+1298169,India vs Bangladesh,India,Bangladesh,KL Rahul,1,50,32,3,4,156.25,out,caught
+1298169,India vs Bangladesh,India,Bangladesh,RG Sharma,2,2,8,0,0,25.0,out,caught
+1298169,India vs Bangladesh,India,Bangladesh,V Kohli,3,64,44,8,1,145.45,not out,
+1298169,India vs Bangladesh,India,Bangladesh,SA Yadav,4,30,16,4,0,187.5,out,bowled
+1298169,India vs Bangladesh,India,Bangladesh,HH Pandya,5,5,6,0,0,83.33,out,caught
+1298169,India vs Bangladesh,India,Bangladesh,KD Karthik,6,7,5,1,0,140.0,not out,
+1298169,India vs Bangladesh,India,Bangladesh,AR Patel,7,7,6,1,0,116.67,out,caught
+1298169,India vs Bangladesh,India,Bangladesh,R Ashwin,8,13,6,1,1,216.67,not out,
+1298170,Pakistan vs South Africa,Pakistan,South Africa,Mohammad Rizwan,1,4,4,1,0,100.0,out,bowled
+1298170,Pakistan vs South Africa,Pakistan,South Africa,Mohammad Haris,2,28,11,2,3,254.55,out,lbw
+1298170,Pakistan vs South Africa,Pakistan,South Africa,Babar Azam,3,6,15,0,0,40.0,out,caught
+1298170,Pakistan vs South Africa,Pakistan,South Africa,Shan Masood,4,2,6,0,0,33.33,out,caught
+1298170,Pakistan vs South Africa,Pakistan,South Africa,Iftikhar Ahmed,5,51,35,3,2,145.71,out,caught
+1298170,Pakistan vs South Africa,Pakistan,South Africa,Mohammad Nawaz,6,28,22,4,1,127.27,out,lbw
+1298170,Pakistan vs South Africa,Pakistan,South Africa,Shadab Khan,7,52,22,3,4,236.36,out,caught
+1298170,Pakistan vs South Africa,Pakistan,South Africa,Mohammad Wasim,8,0,1,0,0,0.0,out,caught
+1298170,Pakistan vs South Africa,Pakistan,South Africa,Haris Rauf,9,3,2,0,0,150.0,out,run out
+1298170,Pakistan vs South Africa,Pakistan,South Africa,Naseem Shah,10,5,3,0,0,166.67,not out,
+1298170,Pakistan vs South Africa,South Africa,Pakistan,T Bavuma,1,36,19,4,1,189.47,out,caught
+1298170,Pakistan vs South Africa,South Africa,Pakistan,Q de Kock,2,0,5,0,0,0.0,out,caught
+1298170,Pakistan vs South Africa,South Africa,Pakistan,RR Rossouw,3,7,6,0,1,116.67,out,caught
+1298170,Pakistan vs South Africa,South Africa,Pakistan,AK Markram,4,20,14,4,0,142.86,out,bowled
+1298170,Pakistan vs South Africa,South Africa,Pakistan,H Klaasen,5,15,9,3,0,166.67,out,caught
+1298170,Pakistan vs South Africa,South Africa,Pakistan,T Stubbs,6,18,18,0,1,100.0,out,caught
+1298170,Pakistan vs South Africa,South Africa,Pakistan,WD Parnell,7,3,4,0,0,75.0,out,lbw
+1298170,Pakistan vs South Africa,South Africa,Pakistan,K Rabada,8,1,2,0,0,50.0,not out,
+1298170,Pakistan vs South Africa,South Africa,Pakistan,A Nortje,9,1,5,0,0,20.0,out,caught
+1298170,Pakistan vs South Africa,South Africa,Pakistan,T Shamsi,10,1,1,0,0,100.0,not out,
+1298170,Pakistan vs South Africa,South Africa,Pakistan,L Ngidi,11,4,1,1,0,400.0,not out,
+1298171,New Zealand vs Ireland,Ireland,New Zealand,PR Stirling,1,37,27,3,1,137.04,out,bowled
+1298171,New Zealand vs Ireland,Ireland,New Zealand,A Balbirnie,2,30,25,0,3,120.0,out,bowled
+1298171,New Zealand vs Ireland,Ireland,New Zealand,L Tucker,3,13,14,0,0,92.86,out,caught
+1298171,New Zealand vs Ireland,Ireland,New Zealand,HT Tector,4,2,7,0,0,28.57,out,caught
+1298171,New Zealand vs Ireland,Ireland,New Zealand,GJ Delany,5,10,8,2,0,125.0,out,caught
+1298171,New Zealand vs Ireland,Ireland,New Zealand,GH Dockrell,6,23,15,3,0,153.33,out,caught
+1298171,New Zealand vs Ireland,Ireland,New Zealand,C Campher,7,7,7,1,0,100.0,out,caught
+1298171,New Zealand vs Ireland,Ireland,New Zealand,F Hand,8,5,3,1,0,166.67,out,caught and bowled
+1298171,New Zealand vs Ireland,Ireland,New Zealand,MR Adair,9,4,5,0,0,80.0,out,caught
+1298171,New Zealand vs Ireland,Ireland,New Zealand,BJ McCarthy,10,6,5,0,0,120.0,not out,
+1298171,New Zealand vs Ireland,Ireland,New Zealand,J Little,11,8,4,0,1,200.0,not out,
+1298171,New Zealand vs Ireland,New Zealand,Ireland,FH Allen,1,32,18,5,1,177.78,out,caught
+1298171,New Zealand vs Ireland,New Zealand,Ireland,DP Conway,2,28,33,2,0,84.85,out,caught
+1298171,New Zealand vs Ireland,New Zealand,Ireland,KS Williamson,3,61,35,5,3,174.29,out,caught
+1298171,New Zealand vs Ireland,New Zealand,Ireland,GD Phillips,4,17,9,2,1,188.89,out,caught
+1298171,New Zealand vs Ireland,New Zealand,Ireland,DJ Mitchell,5,31,21,2,0,147.62,not out,
+1298171,New Zealand vs Ireland,New Zealand,Ireland,JDS Neesham,6,0,1,0,0,0.0,out,lbw
+1298171,New Zealand vs Ireland,New Zealand,Ireland,MJ Santner,7,0,1,0,0,0.0,out,lbw
+1298171,New Zealand vs Ireland,New Zealand,Ireland,TG Southee,8,1,2,0,0,50.0,not out,
+1298173,Sri Lanka vs England,England,Sri Lanka,JC Buttler,1,28,23,2,1,121.74,out,caught
+1298173,Sri Lanka vs England,England,Sri Lanka,AD Hales,2,47,30,7,1,156.67,out,caught and bowled
+1298173,Sri Lanka vs England,England,Sri Lanka,BA Stokes,3,42,36,2,0,116.67,not out,
+1298173,Sri Lanka vs England,England,Sri Lanka,HC Brook,4,4,5,0,0,80.0,out,caught and bowled
+1298173,Sri Lanka vs England,England,Sri Lanka,LS Livingstone,5,4,6,0,0,66.67,out,caught
+1298173,Sri Lanka vs England,England,Sri Lanka,MM Ali,6,1,5,0,0,20.0,out,caught
+1298173,Sri Lanka vs England,England,Sri Lanka,SM Curran,7,6,11,0,0,54.55,out,caught
+1298173,Sri Lanka vs England,England,Sri Lanka,CR Woakes,8,5,3,1,0,166.67,not out,
+1298173,Sri Lanka vs England,Sri Lanka,England,P Nissanka,1,67,45,2,5,148.89,out,caught
+1298173,Sri Lanka vs England,Sri Lanka,England,BKG Mendis,2,18,14,1,1,128.57,out,caught
+1298173,Sri Lanka vs England,Sri Lanka,England,DM de Silva,3,9,11,0,0,81.82,out,caught
+1298173,Sri Lanka vs England,Sri Lanka,England,KIC Asalanka,4,8,9,0,0,88.89,out,caught
+1298173,Sri Lanka vs England,Sri Lanka,England,PBB Rajapaksa,5,22,22,3,0,100.0,out,caught
+1298173,Sri Lanka vs England,Sri Lanka,England,MD Shanaka,6,3,8,0,0,37.5,out,caught
+1298173,Sri Lanka vs England,Sri Lanka,England,PWH de Silva,7,9,9,1,0,100.0,out,run out
+1298173,Sri Lanka vs England,Sri Lanka,England,C Karunaratne,8,0,2,0,0,0.0,out,caught
+1298174,Netherlands vs South Africa,Netherlands,South Africa,SJ Myburgh,1,37,30,7,0,123.33,out,caught
+1298174,Netherlands vs South Africa,Netherlands,South Africa,MP O'Dowd,2,29,31,1,1,93.55,out,caught
+1298174,Netherlands vs South Africa,Netherlands,South Africa,TLW Cooper,3,35,19,2,2,184.21,out,caught
+1298174,Netherlands vs South Africa,Netherlands,South Africa,CN Ackermann,4,41,26,3,2,157.69,not out,
+1298174,Netherlands vs South Africa,Netherlands,South Africa,BFW de Leede,5,1,7,0,0,14.29,out,bowled
+1298174,Netherlands vs South Africa,Netherlands,South Africa,SA Edwards,6,12,7,2,0,171.43,not out,
+1298174,Netherlands vs South Africa,South Africa,Netherlands,Q de Kock,1,13,13,1,1,100.0,out,caught
+1298174,Netherlands vs South Africa,South Africa,Netherlands,T Bavuma,2,20,20,2,0,100.0,out,bowled
+1298174,Netherlands vs South Africa,South Africa,Netherlands,RR Rossouw,3,25,19,2,0,131.58,out,caught
+1298174,Netherlands vs South Africa,South Africa,Netherlands,AK Markram,4,17,13,2,0,130.77,out,caught
+1298174,Netherlands vs South Africa,South Africa,Netherlands,DA Miller,5,17,17,1,0,100.0,out,caught
+1298174,Netherlands vs South Africa,South Africa,Netherlands,H Klaasen,6,21,18,0,1,116.67,out,caught
+1298174,Netherlands vs South Africa,South Africa,Netherlands,WD Parnell,7,0,2,0,0,0.0,out,caught
+1298174,Netherlands vs South Africa,South Africa,Netherlands,KA Maharaj,8,13,12,0,1,108.33,out,caught
+1298174,Netherlands vs South Africa,South Africa,Netherlands,K Rabada,9,9,8,0,0,112.5,not out,
+1298174,Netherlands vs South Africa,South Africa,Netherlands,A Nortje,10,4,1,1,0,400.0,not out,
+1298175,Bangladesh vs Pakistan,Bangladesh,Pakistan,Nazmul Hossain Shanto,1,54,48,7,0,112.5,out,bowled
+1298175,Bangladesh vs Pakistan,Bangladesh,Pakistan,Liton Das,2,10,8,0,1,125.0,out,caught
+1298175,Bangladesh vs Pakistan,Bangladesh,Pakistan,Soumya Sarkar,3,20,17,1,1,117.65,out,caught
+1298175,Bangladesh vs Pakistan,Bangladesh,Pakistan,Shakib Al Hasan,4,0,1,0,0,0.0,out,lbw
+1298175,Bangladesh vs Pakistan,Bangladesh,Pakistan,Afif Hossain,5,24,20,3,0,120.0,not out,
+1298175,Bangladesh vs Pakistan,Bangladesh,Pakistan,Mosaddek Hossain,6,5,11,0,0,45.45,out,bowled
+1298175,Bangladesh vs Pakistan,Bangladesh,Pakistan,Nurul Hasan,7,0,3,0,0,0.0,out,caught
+1298175,Bangladesh vs Pakistan,Bangladesh,Pakistan,Taskin Ahmed,8,1,5,0,0,20.0,out,caught
+1298175,Bangladesh vs Pakistan,Bangladesh,Pakistan,Nasum Ahmed,9,7,6,1,0,116.67,out,caught
+1298175,Bangladesh vs Pakistan,Bangladesh,Pakistan,Mustafizur Rahman,10,0,1,0,0,0.0,not out,
+1298175,Bangladesh vs Pakistan,Pakistan,Bangladesh,Mohammad Rizwan,1,32,32,2,1,100.0,out,caught
+1298175,Bangladesh vs Pakistan,Pakistan,Bangladesh,Babar Azam,2,25,33,2,0,75.76,out,caught
+1298175,Bangladesh vs Pakistan,Pakistan,Bangladesh,Mohammad Nawaz,3,4,11,0,0,36.36,out,run out
+1298175,Bangladesh vs Pakistan,Pakistan,Bangladesh,Mohammad Haris,4,31,18,1,2,172.22,out,caught
+1298175,Bangladesh vs Pakistan,Pakistan,Bangladesh,Shan Masood,5,24,14,2,0,171.43,not out,
+1298175,Bangladesh vs Pakistan,Pakistan,Bangladesh,Iftikhar Ahmed,6,1,3,0,0,33.33,out,caught
+1298176,India vs Zimbabwe,India,Zimbabwe,KL Rahul,1,51,35,3,3,145.71,out,caught
+1298176,India vs Zimbabwe,India,Zimbabwe,RG Sharma,2,15,13,2,0,115.38,out,caught
+1298176,India vs Zimbabwe,India,Zimbabwe,V Kohli,3,26,25,2,0,104.0,out,caught
+1298176,India vs Zimbabwe,India,Zimbabwe,SA Yadav,4,61,25,6,4,244.0,not out,
+1298176,India vs Zimbabwe,India,Zimbabwe,RR Pant,5,3,5,0,0,60.0,out,caught
+1298176,India vs Zimbabwe,India,Zimbabwe,HH Pandya,6,18,18,2,0,100.0,out,caught
+1298176,India vs Zimbabwe,India,Zimbabwe,AR Patel,7,0,0,0,0,0.0,not out,
+1298176,India vs Zimbabwe,Zimbabwe,India,W Madhevere,1,0,1,0,0,0.0,out,caught
+1298176,India vs Zimbabwe,Zimbabwe,India,RW Chakabva,2,0,6,0,0,0.0,out,bowled
+1298176,India vs Zimbabwe,Zimbabwe,India,CR Ervine,3,13,15,2,0,86.67,out,caught and bowled
+1298176,India vs Zimbabwe,Zimbabwe,India,SC Williams,4,11,18,0,1,61.11,out,caught
+1298176,India vs Zimbabwe,Zimbabwe,India,Sikandar Raza,5,34,24,3,0,141.67,out,caught
+1298176,India vs Zimbabwe,Zimbabwe,India,T Munyonga,6,5,4,1,0,125.0,out,lbw
+1298176,India vs Zimbabwe,Zimbabwe,India,RP Burl,7,35,22,5,1,159.09,out,bowled
+1298176,India vs Zimbabwe,Zimbabwe,India,WP Masakadza,8,1,7,0,0,14.29,out,caught
+1298176,India vs Zimbabwe,Zimbabwe,India,R Ngarava,9,1,2,0,0,50.0,out,bowled
+1298176,India vs Zimbabwe,Zimbabwe,India,TL Chatara,10,4,4,1,0,100.0,out,caught and bowled
+1298176,India vs Zimbabwe,Zimbabwe,India,B Muzarabani,11,0,2,0,0,0.0,not out,
+1298177,New Zealand vs Pakistan,New Zealand,Pakistan,FH Allen,1,4,3,1,0,133.33,out,lbw
+1298177,New Zealand vs Pakistan,New Zealand,Pakistan,KS Williamson,2,46,42,1,1,109.52,out,bowled
+1298177,New Zealand vs Pakistan,New Zealand,Pakistan,DP Conway,3,21,20,3,0,105.0,out,run out
+1298177,New Zealand vs Pakistan,New Zealand,Pakistan,GD Phillips,4,6,8,1,0,75.0,out,caught and bowled
+1298177,New Zealand vs Pakistan,New Zealand,Pakistan,DJ Mitchell,5,53,35,3,1,151.43,not out,
+1298177,New Zealand vs Pakistan,New Zealand,Pakistan,JDS Neesham,6,16,12,1,0,133.33,not out,
+1298177,New Zealand vs Pakistan,Pakistan,New Zealand,Mohammad Rizwan,1,57,43,5,0,132.56,out,caught
+1298177,New Zealand vs Pakistan,Pakistan,New Zealand,Babar Azam,2,53,42,7,0,126.19,out,caught
+1298177,New Zealand vs Pakistan,Pakistan,New Zealand,Mohammad Haris,3,30,26,2,1,115.38,out,caught
+1298177,New Zealand vs Pakistan,Pakistan,New Zealand,Shan Masood,4,3,4,0,0,75.0,not out,
+1298178,India vs England,England,India,JC Buttler,1,80,49,10,3,163.27,not out,
+1298178,India vs England,England,India,AD Hales,2,86,47,4,7,182.98,not out,
+1298178,India vs England,India,England,KL Rahul,1,5,5,1,0,100.0,out,caught
+1298178,India vs England,India,England,RG Sharma,2,27,28,4,0,96.43,out,caught
+1298178,India vs England,India,England,V Kohli,3,50,40,4,1,125.0,out,caught
+1298178,India vs England,India,England,SA Yadav,4,14,10,1,1,140.0,out,caught
+1298178,India vs England,India,England,HH Pandya,5,63,33,4,5,190.91,out,hit wicket
+1298178,India vs England,India,England,RR Pant,6,6,4,1,0,150.0,out,run out
+1298179,Pakistan vs England,England,Pakistan,JC Buttler,1,26,17,3,1,152.94,out,caught
+1298179,Pakistan vs England,England,Pakistan,AD Hales,2,1,2,0,0,50.0,out,bowled
+1298179,Pakistan vs England,England,Pakistan,PD Salt,3,10,9,2,0,111.11,out,caught
+1298179,Pakistan vs England,England,Pakistan,BA Stokes,4,52,49,5,1,106.12,not out,
+1298179,Pakistan vs England,England,Pakistan,HC Brook,5,20,23,1,0,86.96,out,caught
+1298179,Pakistan vs England,England,Pakistan,MM Ali,6,19,13,3,0,146.15,out,bowled
+1298179,Pakistan vs England,England,Pakistan,LS Livingstone,7,1,1,0,0,100.0,not out,
+1298179,Pakistan vs England,Pakistan,England,Mohammad Rizwan,1,15,14,0,1,107.14,out,bowled
+1298179,Pakistan vs England,Pakistan,England,Babar Azam,2,32,28,2,0,114.29,out,caught and bowled
+1298179,Pakistan vs England,Pakistan,England,Mohammad Haris,3,8,12,1,0,66.67,out,caught
+1298179,Pakistan vs England,Pakistan,England,Shan Masood,4,38,28,2,1,135.71,out,caught
+1298179,Pakistan vs England,Pakistan,England,Iftikhar Ahmed,5,0,6,0,0,0.0,out,caught
+1298179,Pakistan vs England,Pakistan,England,Shadab Khan,6,20,14,2,0,142.86,out,caught
+1298179,Pakistan vs England,Pakistan,England,Mohammad Nawaz,7,5,7,0,0,71.43,out,caught
+1298179,Pakistan vs England,Pakistan,England,Mohammad Wasim,8,4,8,0,0,50.0,out,caught
+1298179,Pakistan vs England,Pakistan,England,Shaheen Shah Afridi,9,5,3,1,0,166.67,not out,
+1298179,Pakistan vs England,Pakistan,England,Haris Rauf,10,1,1,0,0,100.0,not out,

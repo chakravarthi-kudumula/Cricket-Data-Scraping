@@ -1,0 +1,465 @@
+match_id,match,bowling_team,batting_team,bowler_name,overs,balls,runs,wickets,economy,bowling_average,bowling_strike_rate,dot_ball_percentage
+1298157,India vs Netherlands,Netherlands,India,FJ Klaassen,4.0,24,34,1,8.5,34.0,24.0,33.33
+1298157,India vs Netherlands,Netherlands,India,TJG Pringle,4.0,24,30,0,7.5,,,25.0
+1298157,India vs Netherlands,Netherlands,India,PA van Meekeren,4.0,24,32,1,8.0,32.0,24.0,37.5
+1298157,India vs Netherlands,Netherlands,India,BFW de Leede,3.0,18,33,0,11.0,,,33.33
+1298157,India vs Netherlands,Netherlands,India,LV van Beek,4.0,24,45,0,11.25,,,12.5
+1298157,India vs Netherlands,Netherlands,India,Shariz Ahmad,1.0,6,5,0,5.0,,,33.33
+1298157,India vs Netherlands,India,Netherlands,B Kumar,3.0,18,9,2,3.0,4.5,9.0,77.78
+1298157,India vs Netherlands,India,Netherlands,Arshdeep Singh,4.0,24,39,2,9.75,19.5,12.0,29.17
+1298157,India vs Netherlands,India,Netherlands,Mohammed Shami,4.0,24,27,1,6.75,27.0,24.0,41.67
+1298157,India vs Netherlands,India,Netherlands,AR Patel,4.0,24,18,2,4.5,9.0,12.0,45.83
+1298157,India vs Netherlands,India,Netherlands,HH Pandya,1.0,6,9,0,9.0,,,16.67
+1298157,India vs Netherlands,India,Netherlands,R Ashwin,4.0,24,21,2,5.25,10.5,12.0,54.17
+1298141,Scotland vs Ireland,Ireland,Scotland,J Little,4.0,24,30,1,7.5,30.0,24.0,41.67
+1298141,Scotland vs Ireland,Ireland,Scotland,MR Adair,4.0,24,25,1,6.25,25.0,24.0,41.67
+1298141,Scotland vs Ireland,Ireland,Scotland,BJ McCarthy,4.0,24,59,0,14.75,,,16.67
+1298141,Scotland vs Ireland,Ireland,Scotland,GJ Delany,3.0,18,28,0,9.33,,,16.67
+1298141,Scotland vs Ireland,Ireland,Scotland,Simi Singh,2.0,12,16,0,8.0,,,16.67
+1298141,Scotland vs Ireland,Ireland,Scotland,C Campher,2.0,12,9,2,4.5,4.5,6.0,58.33
+1298141,Scotland vs Ireland,Ireland,Scotland,GH Dockrell,1.0,6,9,0,9.0,,,16.67
+1298141,Scotland vs Ireland,Scotland,Ireland,MRJ Watt,4.0,24,40,1,10.0,40.0,24.0,37.5
+1298141,Scotland vs Ireland,Scotland,Ireland,BTJ Wheal,4.0,24,27,1,6.75,27.0,24.0,37.5
+1298141,Scotland vs Ireland,Scotland,Ireland,JH Davey,4.0,24,46,0,11.5,,,20.83
+1298141,Scotland vs Ireland,Scotland,Ireland,SM Sharif,3.0,18,32,1,10.67,32.0,18.0,16.67
+1298141,Scotland vs Ireland,Scotland,Ireland,CN Greaves,2.0,12,18,0,9.0,,,8.33
+1298141,Scotland vs Ireland,Scotland,Ireland,MA Leask,2.0,12,17,1,8.5,17.0,12.0,8.33
+1298161,New Zealand vs Sri Lanka,Sri Lanka,New Zealand,M Theekshana,4.0,24,36,1,9.0,36.0,24.0,25.0
+1298161,New Zealand vs Sri Lanka,Sri Lanka,New Zealand,CAK Rajitha,4.0,24,24,2,6.0,12.0,12.0,62.5
+1298161,New Zealand vs Sri Lanka,Sri Lanka,New Zealand,DM de Silva,2.0,12,14,1,7.0,14.0,12.0,33.33
+1298161,New Zealand vs Sri Lanka,Sri Lanka,New Zealand,PWH de Silva,4.0,24,22,1,5.5,22.0,24.0,37.5
+1298161,New Zealand vs Sri Lanka,Sri Lanka,New Zealand,CBRLS Kumara,3.0,18,37,1,12.33,37.0,18.0,11.11
+1298161,New Zealand vs Sri Lanka,Sri Lanka,New Zealand,C Karunaratne,3.0,18,34,0,11.33,,,27.78
+1298161,New Zealand vs Sri Lanka,New Zealand,Sri Lanka,TG Southee,4.0,24,12,1,3.0,12.0,24.0,75.0
+1298161,New Zealand vs Sri Lanka,New Zealand,Sri Lanka,TA Boult,4.0,24,13,4,3.25,3.25,6.0,75.0
+1298161,New Zealand vs Sri Lanka,New Zealand,Sri Lanka,LH Ferguson,4.0,24,35,1,8.75,35.0,24.0,45.83
+1298161,New Zealand vs Sri Lanka,New Zealand,Sri Lanka,MJ Santner,4.0,24,21,2,5.25,10.5,12.0,54.17
+1298161,New Zealand vs Sri Lanka,New Zealand,Sri Lanka,IS Sodhi,3.3,20,21,2,6.36,10.5,10.0,55.0
+1298136,United Arab Emirates vs Netherlands,Netherlands,United Arab Emirates,FJ Klaassen,4.0,24,15,2,3.75,7.5,12.0,66.67
+1298136,United Arab Emirates vs Netherlands,Netherlands,United Arab Emirates,TJG Pringle,4.0,24,14,1,3.5,14.0,24.0,41.67
+1298136,United Arab Emirates vs Netherlands,Netherlands,United Arab Emirates,LV van Beek,2.0,12,19,0,9.5,,,41.67
+1298136,United Arab Emirates vs Netherlands,Netherlands,United Arab Emirates,BFW de Leede,3.0,18,19,3,6.33,6.33,6.0,50.0
+1298136,United Arab Emirates vs Netherlands,Netherlands,United Arab Emirates,PA van Meekeren,4.0,24,25,0,6.25,,,33.33
+1298136,United Arab Emirates vs Netherlands,Netherlands,United Arab Emirates,RE van der Merwe,3.0,18,19,1,6.33,19.0,18.0,38.89
+1298136,United Arab Emirates vs Netherlands,United Arab Emirates,Netherlands,Junaid Siddique,4.0,24,24,3,6.0,8.0,8.0,41.67
+1298136,United Arab Emirates vs Netherlands,United Arab Emirates,Netherlands,Basil Hameed,1.0,6,9,1,9.0,9.0,6.0,50.0
+1298136,United Arab Emirates vs Netherlands,United Arab Emirates,Netherlands,Aayan Afzal Khan,3.0,18,15,1,5.0,15.0,18.0,44.44
+1298136,United Arab Emirates vs Netherlands,United Arab Emirates,Netherlands,KP Meiyappan,4.0,24,22,1,5.5,22.0,24.0,45.83
+1298136,United Arab Emirates vs Netherlands,United Arab Emirates,Netherlands,Zahoor Khan,4.0,24,12,1,3.0,12.0,24.0,54.17
+1298136,United Arab Emirates vs Netherlands,United Arab Emirates,Netherlands,Zawar Farid,2.8,17,25,0,8.93,,,5.88
+1298136,United Arab Emirates vs Netherlands,United Arab Emirates,Netherlands,Kashif Daud,1.0,6,5,0,5.0,,,16.67
+1298177,New Zealand vs Pakistan,Pakistan,New Zealand,Shaheen Shah Afridi,4.0,24,25,2,6.25,12.5,12.0,41.67
+1298177,New Zealand vs Pakistan,Pakistan,New Zealand,Naseem Shah,4.0,24,34,0,8.5,,,16.67
+1298177,New Zealand vs Pakistan,Pakistan,New Zealand,Haris Rauf,4.0,24,33,0,8.25,,,20.83
+1298177,New Zealand vs Pakistan,Pakistan,New Zealand,Mohammad Wasim,2.0,12,15,0,7.5,,,25.0
+1298177,New Zealand vs Pakistan,Pakistan,New Zealand,Shadab Khan,4.0,24,33,0,8.25,,,29.17
+1298177,New Zealand vs Pakistan,Pakistan,New Zealand,Mohammad Nawaz,2.0,12,12,1,6.0,12.0,12.0,16.67
+1298177,New Zealand vs Pakistan,New Zealand,Pakistan,TA Boult,4.0,24,34,2,8.5,17.0,12.0,33.33
+1298177,New Zealand vs Pakistan,New Zealand,Pakistan,TG Southee,3.2,19,24,0,7.5,,,36.84
+1298177,New Zealand vs Pakistan,New Zealand,Pakistan,LH Ferguson,4.0,24,39,0,9.75,,,20.83
+1298177,New Zealand vs Pakistan,New Zealand,Pakistan,MJ Santner,4.0,24,30,1,7.5,30.0,24.0,16.67
+1298177,New Zealand vs Pakistan,New Zealand,Pakistan,IS Sodhi,4.0,24,26,0,6.5,,,16.67
+1298176,India vs Zimbabwe,Zimbabwe,India,R Ngarava,4.0,24,45,1,11.25,45.0,24.0,45.83
+1298176,India vs Zimbabwe,Zimbabwe,India,TL Chatara,4.0,24,34,0,8.5,,,20.83
+1298176,India vs Zimbabwe,Zimbabwe,India,B Muzarabani,4.0,24,54,1,13.5,54.0,24.0,16.67
+1298176,India vs Zimbabwe,Zimbabwe,India,WP Masakadza,2.0,12,12,0,6.0,,,41.67
+1298176,India vs Zimbabwe,Zimbabwe,India,RP Burl,1.0,6,14,0,14.0,,,16.67
+1298176,India vs Zimbabwe,Zimbabwe,India,Sikandar Raza,3.0,18,18,1,6.0,18.0,18.0,27.78
+1298176,India vs Zimbabwe,Zimbabwe,India,SC Williams,2.0,12,9,2,4.5,4.5,6.0,50.0
+1298176,India vs Zimbabwe,India,Zimbabwe,B Kumar,3.0,18,12,1,4.0,12.0,18.0,72.22
+1298176,India vs Zimbabwe,India,Zimbabwe,Arshdeep Singh,2.0,12,9,1,4.5,9.0,12.0,75.0
+1298176,India vs Zimbabwe,India,Zimbabwe,Mohammed Shami,2.0,12,14,2,7.0,7.0,6.0,58.33
+1298176,India vs Zimbabwe,India,Zimbabwe,HH Pandya,3.0,18,17,2,5.67,8.5,9.0,50.0
+1298176,India vs Zimbabwe,India,Zimbabwe,R Ashwin,4.0,24,22,3,5.5,7.33,8.0,54.17
+1298176,India vs Zimbabwe,India,Zimbabwe,AR Patel,3.3,20,41,1,12.42,41.0,20.0,15.0
+1298137,Scotland vs West Indies,West Indies,Scotland,KR Mayers,2.0,12,25,0,12.5,,,33.33
+1298137,Scotland vs West Indies,West Indies,Scotland,AJ Hosein,4.0,24,31,0,7.75,,,33.33
+1298137,Scotland vs West Indies,West Indies,Scotland,AS Joseph,4.0,24,30,2,7.5,15.0,12.0,29.17
+1298137,Scotland vs West Indies,West Indies,Scotland,OC McCoy,3.0,18,27,0,9.0,,,22.22
+1298137,Scotland vs West Indies,West Indies,Scotland,JO Holder,3.0,18,15,2,5.0,7.5,9.0,38.89
+1298137,Scotland vs West Indies,West Indies,Scotland,OF Smith,4.0,24,32,1,8.0,32.0,24.0,20.83
+1298137,Scotland vs West Indies,Scotland,West Indies,MRJ Watt,4.0,24,13,3,3.25,4.33,8.0,62.5
+1298137,Scotland vs West Indies,Scotland,West Indies,BTJ Wheal,4.0,24,32,2,8.0,16.0,12.0,41.67
+1298137,Scotland vs West Indies,Scotland,West Indies,JH Davey,3.0,18,34,1,11.33,34.0,18.0,44.44
+1298137,Scotland vs West Indies,Scotland,West Indies,SM Sharif,3.5,21,24,1,6.86,24.0,21.0,28.57
+1298137,Scotland vs West Indies,Scotland,West Indies,MA Leask,4.0,24,15,2,3.75,7.5,12.0,45.83
+1298140,Sri Lanka vs United Arab Emirates,United Arab Emirates,Sri Lanka,Junaid Siddique,4.0,24,40,0,10.0,,,29.17
+1298140,Sri Lanka vs United Arab Emirates,United Arab Emirates,Sri Lanka,Kashif Daud,1.0,6,14,0,14.0,,,0.0
+1298140,Sri Lanka vs United Arab Emirates,United Arab Emirates,Sri Lanka,Zahoor Khan,4.0,24,26,2,6.5,13.0,12.0,41.67
+1298140,Sri Lanka vs United Arab Emirates,United Arab Emirates,Sri Lanka,Aayan Afzal Khan,3.0,18,16,1,5.33,16.0,18.0,38.89
+1298140,Sri Lanka vs United Arab Emirates,United Arab Emirates,Sri Lanka,Aryan Lakra,3.0,18,24,1,8.0,24.0,18.0,27.78
+1298140,Sri Lanka vs United Arab Emirates,United Arab Emirates,Sri Lanka,KP Meiyappan,4.0,24,19,3,4.75,6.33,8.0,50.0
+1298140,Sri Lanka vs United Arab Emirates,United Arab Emirates,Sri Lanka,Basil Hameed,1.0,6,13,0,13.0,,,16.67
+1298140,Sri Lanka vs United Arab Emirates,Sri Lanka,United Arab Emirates,PM Liyanagamage,3.0,18,14,1,4.67,14.0,18.0,66.67
+1298140,Sri Lanka vs United Arab Emirates,Sri Lanka,United Arab Emirates,M Theekshana,3.2,19,15,2,4.69,7.5,9.5,52.63
+1298140,Sri Lanka vs United Arab Emirates,Sri Lanka,United Arab Emirates,PVD Chameera,3.8,23,15,3,3.95,5.0,7.67,69.57
+1298140,Sri Lanka vs United Arab Emirates,Sri Lanka,United Arab Emirates,C Karunaratne,2.0,12,14,0,7.0,,,41.67
+1298140,Sri Lanka vs United Arab Emirates,Sri Lanka,United Arab Emirates,PWH de Silva,4.0,24,8,3,2.0,2.67,8.0,70.83
+1298140,Sri Lanka vs United Arab Emirates,Sri Lanka,United Arab Emirates,MD Shanaka,1.2,7,7,1,5.83,7.0,7.0,42.86
+1298156,South Africa vs Bangladesh,Bangladesh,South Africa,Taskin Ahmed,3.0,18,46,1,15.33,46.0,18.0,38.89
+1298156,South Africa vs Bangladesh,Bangladesh,South Africa,Mehedi Hasan Miraz,3.0,18,32,0,10.67,,,22.22
+1298156,South Africa vs Bangladesh,Bangladesh,South Africa,Hasan Mahmud,4.0,24,36,1,9.0,36.0,24.0,45.83
+1298156,South Africa vs Bangladesh,Bangladesh,South Africa,Mustafizur Rahman,4.0,24,25,0,6.25,,,29.17
+1298156,South Africa vs Bangladesh,Bangladesh,South Africa,Mosaddek Hossain,2.0,12,16,0,8.0,,,41.67
+1298156,South Africa vs Bangladesh,Bangladesh,South Africa,Shakib Al Hasan,3.0,18,39,2,13.0,19.5,9.0,33.33
+1298156,South Africa vs Bangladesh,Bangladesh,South Africa,Afif Hossain,1.0,6,11,1,11.0,11.0,6.0,16.67
+1298156,South Africa vs Bangladesh,South Africa,Bangladesh,K Rabada,3.0,18,25,1,8.33,25.0,18.0,38.89
+1298156,South Africa vs Bangladesh,South Africa,Bangladesh,WD Parnell,2.0,12,18,0,9.0,,,25.0
+1298156,South Africa vs Bangladesh,South Africa,Bangladesh,A Nortje,3.5,21,14,4,4.0,3.5,5.25,71.43
+1298156,South Africa vs Bangladesh,South Africa,Bangladesh,KA Maharaj,4.0,24,24,1,6.0,24.0,24.0,25.0
+1298156,South Africa vs Bangladesh,South Africa,Bangladesh,T Shamsi,4.0,24,20,3,5.0,6.67,8.0,50.0
+1298167,England vs New Zealand,New Zealand,England,TA Boult,4.0,24,40,0,10.0,,,33.33
+1298167,England vs New Zealand,New Zealand,England,TG Southee,4.0,24,43,1,10.75,43.0,24.0,37.5
+1298167,England vs New Zealand,New Zealand,England,MJ Santner,4.0,24,26,1,6.5,26.0,24.0,29.17
+1298167,England vs New Zealand,New Zealand,England,LH Ferguson,4.0,24,46,2,11.5,23.0,12.0,25.0
+1298167,England vs New Zealand,New Zealand,England,IS Sodhi,4.0,24,24,1,6.0,24.0,24.0,37.5
+1298167,England vs New Zealand,England,New Zealand,MM Ali,1.0,6,4,0,4.0,,,50.0
+1298167,England vs New Zealand,England,New Zealand,CR Woakes,4.0,24,35,2,8.75,17.5,12.0,29.17
+1298167,England vs New Zealand,England,New Zealand,AU Rashid,4.0,24,33,0,8.25,,,25.0
+1298167,England vs New Zealand,England,New Zealand,SM Curran,4.0,24,26,2,6.5,13.0,12.0,37.5
+1298167,England vs New Zealand,England,New Zealand,MA Wood,3.0,18,25,1,8.33,25.0,18.0,44.44
+1298167,England vs New Zealand,England,New Zealand,LS Livingstone,3.0,18,26,0,8.67,,,22.22
+1298167,England vs New Zealand,England,New Zealand,BA Stokes,1.0,6,10,1,10.0,10.0,6.0,33.33
+1298171,New Zealand vs Ireland,Ireland,New Zealand,J Little,4.0,24,24,3,6.0,8.0,8.0,33.33
+1298171,New Zealand vs Ireland,Ireland,New Zealand,MR Adair,4.0,24,44,1,11.0,44.0,24.0,29.17
+1298171,New Zealand vs Ireland,Ireland,New Zealand,BJ McCarthy,4.0,24,47,0,11.75,,,12.5
+1298171,New Zealand vs Ireland,Ireland,New Zealand,GJ Delany,4.0,24,30,2,7.5,15.0,12.0,45.83
+1298171,New Zealand vs Ireland,Ireland,New Zealand,F Hand,2.0,12,22,0,11.0,,,16.67
+1298171,New Zealand vs Ireland,Ireland,New Zealand,GH Dockrell,2.0,12,18,0,9.0,,,33.33
+1298171,New Zealand vs Ireland,New Zealand,Ireland,TA Boult,4.0,24,39,0,9.75,,,29.17
+1298171,New Zealand vs Ireland,New Zealand,Ireland,TG Southee,4.0,24,30,2,7.5,15.0,12.0,29.17
+1298171,New Zealand vs Ireland,New Zealand,Ireland,LH Ferguson,4.0,24,22,3,5.5,7.33,8.0,41.67
+1298171,New Zealand vs Ireland,New Zealand,Ireland,MJ Santner,4.0,24,26,2,6.5,13.0,12.0,50.0
+1298171,New Zealand vs Ireland,New Zealand,Ireland,IS Sodhi,4.0,24,33,2,8.25,16.5,12.0,33.33
+1298151,Bangladesh vs Netherlands,Netherlands,Bangladesh,FJ Klaassen,4.0,24,35,1,8.75,35.0,24.0,37.5
+1298151,Bangladesh vs Netherlands,Netherlands,Bangladesh,CN Ackermann,1.0,6,4,0,4.0,,,33.33
+1298151,Bangladesh vs Netherlands,Netherlands,Bangladesh,PA van Meekeren,4.0,24,21,2,5.25,10.5,12.0,41.67
+1298151,Bangladesh vs Netherlands,Netherlands,Bangladesh,BFW de Leede,3.0,18,33,2,11.0,16.5,9.0,44.44
+1298151,Bangladesh vs Netherlands,Netherlands,Bangladesh,TJG Pringle,2.0,12,11,1,5.5,11.0,12.0,25.0
+1298151,Bangladesh vs Netherlands,Netherlands,Bangladesh,Shariz Ahmad,3.0,18,27,1,9.0,27.0,18.0,27.78
+1298151,Bangladesh vs Netherlands,Netherlands,Bangladesh,LV van Beek,3.0,18,13,1,4.33,13.0,18.0,33.33
+1298151,Bangladesh vs Netherlands,Bangladesh,Netherlands,Taskin Ahmed,4.0,24,25,4,6.25,6.25,6.0,66.67
+1298151,Bangladesh vs Netherlands,Bangladesh,Netherlands,Hasan Mahmud,4.0,24,15,2,3.75,7.5,12.0,66.67
+1298151,Bangladesh vs Netherlands,Bangladesh,Netherlands,Shakib Al Hasan,4.0,24,32,1,8.0,32.0,24.0,25.0
+1298151,Bangladesh vs Netherlands,Bangladesh,Netherlands,Mustafizur Rahman,4.0,24,20,0,5.0,,,58.33
+1298151,Bangladesh vs Netherlands,Bangladesh,Netherlands,Soumya Sarkar,3.0,18,29,1,9.67,29.0,18.0,27.78
+1298151,Bangladesh vs Netherlands,Bangladesh,Netherlands,Mosaddek Hossain,1.0,6,14,0,14.0,,,0.0
+1298147,New Zealand vs Australia,Australia,New Zealand,MA Starc,4.0,24,36,0,9.0,,,20.83
+1298147,New Zealand vs Australia,Australia,New Zealand,JR Hazlewood,4.0,24,41,2,10.25,20.5,12.0,33.33
+1298147,New Zealand vs Australia,Australia,New Zealand,PJ Cummins,4.0,24,46,0,11.5,,,33.33
+1298147,New Zealand vs Australia,Australia,New Zealand,MP Stoinis,4.0,24,38,0,9.5,,,12.5
+1298147,New Zealand vs Australia,Australia,New Zealand,A Zampa,4.0,24,39,1,9.75,39.0,24.0,16.67
+1298147,New Zealand vs Australia,New Zealand,Australia,TA Boult,4.0,24,25,2,6.25,12.5,12.0,50.0
+1298147,New Zealand vs Australia,New Zealand,Australia,TG Southee,2.2,13,6,3,2.73,2.0,4.33,76.92
+1298147,New Zealand vs Australia,New Zealand,Australia,MJ Santner,4.0,24,31,3,7.75,10.33,8.0,41.67
+1298147,New Zealand vs Australia,New Zealand,Australia,LH Ferguson,3.0,18,20,1,6.67,20.0,18.0,50.0
+1298147,New Zealand vs Australia,New Zealand,Australia,IS Sodhi,4.0,24,29,1,7.25,29.0,24.0,33.33
+1298146,Scotland vs Zimbabwe,Zimbabwe,Scotland,TL Chatara,4.0,24,18,2,4.5,9.0,12.0,41.67
+1298146,Scotland vs Zimbabwe,Zimbabwe,Scotland,R Ngarava,4.0,24,34,2,8.5,17.0,12.0,41.67
+1298146,Scotland vs Zimbabwe,Zimbabwe,Scotland,B Muzarabani,4.0,24,34,1,8.5,34.0,24.0,37.5
+1298146,Scotland vs Zimbabwe,Zimbabwe,Scotland,SC Williams,3.0,18,19,0,6.33,,,22.22
+1298146,Scotland vs Zimbabwe,Zimbabwe,Scotland,Sikandar Raza,4.0,24,20,1,5.0,20.0,24.0,41.67
+1298146,Scotland vs Zimbabwe,Zimbabwe,Scotland,W Madhevere,1.0,6,7,0,7.0,,,16.67
+1298146,Scotland vs Zimbabwe,Scotland,Zimbabwe,BTJ Wheal,4.0,24,26,1,6.5,26.0,24.0,50.0
+1298146,Scotland vs Zimbabwe,Scotland,Zimbabwe,JH Davey,3.0,18,17,2,5.67,8.5,9.0,38.89
+1298146,Scotland vs Zimbabwe,Scotland,Zimbabwe,SM Sharif,2.5,15,23,0,9.2,,,26.67
+1298146,Scotland vs Zimbabwe,Scotland,Zimbabwe,MRJ Watt,4.0,24,19,1,4.75,19.0,24.0,37.5
+1298146,Scotland vs Zimbabwe,Scotland,Zimbabwe,MA Leask,4.0,24,37,1,9.25,37.0,24.0,12.5
+1298146,Scotland vs Zimbabwe,Scotland,Zimbabwe,CS MacLeod,1.0,6,11,0,11.0,,,0.0
+1298150,Pakistan vs India,India,Pakistan,B Kumar,4.0,24,24,1,6.0,24.0,24.0,66.67
+1298150,Pakistan vs India,India,Pakistan,Arshdeep Singh,4.0,24,33,3,8.25,11.0,8.0,37.5
+1298150,Pakistan vs India,India,Pakistan,Mohammed Shami,4.0,24,26,1,6.5,26.0,24.0,54.17
+1298150,Pakistan vs India,India,Pakistan,HH Pandya,4.0,24,31,3,7.75,10.33,8.0,37.5
+1298150,Pakistan vs India,India,Pakistan,R Ashwin,3.0,18,24,0,8.0,,,22.22
+1298150,Pakistan vs India,India,Pakistan,AR Patel,1.0,6,21,0,21.0,,,33.33
+1298150,Pakistan vs India,Pakistan,India,Shaheen Shah Afridi,4.0,24,34,0,8.5,,,29.17
+1298150,Pakistan vs India,Pakistan,India,Naseem Shah,4.0,24,23,1,5.75,23.0,24.0,41.67
+1298150,Pakistan vs India,Pakistan,India,Haris Rauf,4.0,24,37,2,9.25,18.5,12.0,41.67
+1298150,Pakistan vs India,Pakistan,India,Shadab Khan,4.0,24,21,0,5.25,,,41.67
+1298150,Pakistan vs India,Pakistan,India,Mohammad Nawaz,4.0,24,45,2,11.25,22.5,12.0,29.17
+1298170,Pakistan vs South Africa,South Africa,Pakistan,WD Parnell,4.0,24,31,1,7.75,31.0,24.0,41.67
+1298170,Pakistan vs South Africa,South Africa,Pakistan,K Rabada,4.0,24,45,1,11.25,45.0,24.0,25.0
+1298170,Pakistan vs South Africa,South Africa,Pakistan,L Ngidi,4.0,24,32,1,8.0,32.0,24.0,45.83
+1298170,Pakistan vs South Africa,South Africa,Pakistan,A Nortje,4.0,24,41,4,10.25,10.25,6.0,45.83
+1298170,Pakistan vs South Africa,South Africa,Pakistan,T Shamsi,4.0,24,36,1,9.0,36.0,24.0,33.33
+1298170,Pakistan vs South Africa,Pakistan,South Africa,Shaheen Shah Afridi,3.0,18,14,3,4.67,4.67,6.0,61.11
+1298170,Pakistan vs South Africa,Pakistan,South Africa,Naseem Shah,3.0,18,19,1,6.33,19.0,18.0,55.56
+1298170,Pakistan vs South Africa,Pakistan,South Africa,Haris Rauf,3.0,18,44,1,14.67,44.0,18.0,11.11
+1298170,Pakistan vs South Africa,Pakistan,South Africa,Mohammad Wasim,2.0,12,13,1,6.5,13.0,12.0,25.0
+1298170,Pakistan vs South Africa,Pakistan,South Africa,Shadab Khan,2.0,12,16,2,8.0,8.0,6.0,41.67
+1298170,Pakistan vs South Africa,Pakistan,South Africa,Mohammad Nawaz,1.0,6,2,0,2.0,,,66.67
+1298173,Sri Lanka vs England,England,Sri Lanka,BA Stokes,3.0,18,24,1,8.0,24.0,18.0,44.44
+1298173,Sri Lanka vs England,England,Sri Lanka,CR Woakes,3.0,18,25,1,8.33,25.0,18.0,22.22
+1298173,Sri Lanka vs England,England,Sri Lanka,MA Wood,3.0,18,27,3,9.0,9.0,6.0,38.89
+1298173,Sri Lanka vs England,England,Sri Lanka,SM Curran,4.0,24,28,1,7.0,28.0,24.0,37.5
+1298173,Sri Lanka vs England,England,Sri Lanka,AU Rashid,4.0,24,16,1,4.0,16.0,24.0,45.83
+1298173,Sri Lanka vs England,England,Sri Lanka,LS Livingstone,2.0,12,16,0,8.0,,,16.67
+1298173,Sri Lanka vs England,England,Sri Lanka,MM Ali,1.0,6,5,0,5.0,,,16.67
+1298173,Sri Lanka vs England,Sri Lanka,England,M Theekshana,4.0,24,22,0,5.5,,,45.83
+1298173,Sri Lanka vs England,Sri Lanka,England,CAK Rajitha,3.0,18,40,0,13.33,,,22.22
+1298173,Sri Lanka vs England,Sri Lanka,England,CBRLS Kumara,3.7,22,27,2,7.3,13.5,11.0,40.91
+1298173,Sri Lanka vs England,Sri Lanka,England,PWH de Silva,4.0,24,23,2,5.75,11.5,12.0,45.83
+1298173,Sri Lanka vs England,Sri Lanka,England,DM de Silva,4.0,24,24,2,6.0,12.0,12.0,29.17
+1298173,Sri Lanka vs England,Sri Lanka,England,KIC Asalanka,1.0,6,8,0,8.0,,,16.67
+1298165,Australia vs Ireland,Ireland,Australia,J Little,4.0,24,21,2,5.25,10.5,12.0,54.17
+1298165,Australia vs Ireland,Ireland,Australia,MR Adair,4.0,24,60,0,15.0,,,20.83
+1298165,Australia vs Ireland,Ireland,Australia,BJ McCarthy,4.0,24,29,3,7.25,9.67,8.0,29.17
+1298165,Australia vs Ireland,Ireland,Australia,GJ Delany,3.0,18,30,0,10.0,,,50.0
+1298165,Australia vs Ireland,Ireland,Australia,F Hand,1.0,6,15,0,15.0,,,33.33
+1298165,Australia vs Ireland,Ireland,Australia,GH Dockrell,4.0,24,24,0,6.0,,,33.33
+1298165,Australia vs Ireland,Australia,Ireland,JR Hazlewood,3.0,18,24,0,8.0,,,44.44
+1298165,Australia vs Ireland,Australia,Ireland,PJ Cummins,4.0,24,29,2,7.25,14.5,12.0,54.17
+1298165,Australia vs Ireland,Australia,Ireland,GJ Maxwell,2.2,13,14,2,6.36,7.0,6.5,46.15
+1298165,Australia vs Ireland,Australia,Ireland,MA Starc,4.0,24,45,2,11.25,22.5,12.0,37.5
+1298165,Australia vs Ireland,Australia,Ireland,A Zampa,4.0,24,19,2,4.75,9.5,12.0,37.5
+1298165,Australia vs Ireland,Australia,Ireland,MP Stoinis,1.0,6,6,1,6.0,6.0,6.0,33.33
+1298149,Ireland vs Sri Lanka,Sri Lanka,Ireland,B Fernando,4.0,24,29,1,7.25,29.0,24.0,37.5
+1298149,Ireland vs Sri Lanka,Sri Lanka,Ireland,CBRLS Kumara,2.0,12,12,1,6.0,12.0,12.0,50.0
+1298149,Ireland vs Sri Lanka,Sri Lanka,Ireland,M Theekshana,4.0,24,20,2,5.0,10.0,12.0,29.17
+1298149,Ireland vs Sri Lanka,Sri Lanka,Ireland,C Karunaratne,4.0,24,29,1,7.25,29.0,24.0,29.17
+1298149,Ireland vs Sri Lanka,Sri Lanka,Ireland,PWH de Silva,4.0,24,25,2,6.25,12.5,12.0,25.0
+1298149,Ireland vs Sri Lanka,Sri Lanka,Ireland,DM de Silva,2.0,12,13,1,6.5,13.0,12.0,25.0
+1298149,Ireland vs Sri Lanka,Ireland,Sri Lanka,J Little,4.0,24,45,0,11.25,,,20.83
+1298149,Ireland vs Sri Lanka,Ireland,Sri Lanka,MR Adair,2.0,12,16,0,8.0,,,16.67
+1298149,Ireland vs Sri Lanka,Ireland,Sri Lanka,BJ McCarthy,2.0,12,16,0,8.0,,,33.33
+1298149,Ireland vs Sri Lanka,Ireland,Sri Lanka,GJ Delany,4.0,24,28,1,7.0,28.0,24.0,33.33
+1298149,Ireland vs Sri Lanka,Ireland,Sri Lanka,C Campher,1.0,6,8,0,8.0,,,33.33
+1298149,Ireland vs Sri Lanka,Ireland,Sri Lanka,Simi Singh,2.0,12,20,0,10.0,,,25.0
+1298169,India vs Bangladesh,Bangladesh,India,Taskin Ahmed,4.0,24,15,0,3.75,,,66.67
+1298169,India vs Bangladesh,Bangladesh,India,Shoriful Islam,4.0,24,57,0,14.25,,,29.17
+1298169,India vs Bangladesh,Bangladesh,India,Hasan Mahmud,4.0,24,48,3,12.0,16.0,8.0,25.0
+1298169,India vs Bangladesh,Bangladesh,India,Mustafizur Rahman,4.0,24,31,0,7.75,,,37.5
+1298169,India vs Bangladesh,Bangladesh,India,Shakib Al Hasan,4.0,24,33,2,8.25,16.5,12.0,12.5
+1298169,India vs Bangladesh,India,Bangladesh,B Kumar,3.0,18,27,0,9.0,,,38.89
+1298169,India vs Bangladesh,India,Bangladesh,Arshdeep Singh,4.0,24,40,2,10.0,20.0,12.0,33.33
+1298169,India vs Bangladesh,India,Bangladesh,Mohammed Shami,3.0,18,25,1,8.33,25.0,18.0,38.89
+1298169,India vs Bangladesh,India,Bangladesh,AR Patel,1.0,6,6,0,6.0,,,33.33
+1298169,India vs Bangladesh,India,Bangladesh,R Ashwin,2.0,12,19,0,9.5,,,33.33
+1298169,India vs Bangladesh,India,Bangladesh,HH Pandya,3.0,18,28,2,9.33,14.0,9.0,44.44
+1298145,West Indies vs Ireland,Ireland,West Indies,J Little,4.0,24,31,0,7.75,,,33.33
+1298145,West Indies vs Ireland,Ireland,West Indies,MR Adair,4.0,24,26,0,6.5,,,50.0
+1298145,West Indies vs Ireland,Ireland,West Indies,BJ McCarthy,4.0,24,34,1,8.5,34.0,24.0,33.33
+1298145,West Indies vs Ireland,Ireland,West Indies,C Campher,2.0,12,28,0,14.0,,,16.67
+1298145,West Indies vs Ireland,Ireland,West Indies,Simi Singh,2.0,12,11,1,5.5,11.0,12.0,33.33
+1298145,West Indies vs Ireland,Ireland,West Indies,GJ Delany,4.0,24,16,3,4.0,5.33,8.0,50.0
+1298145,West Indies vs Ireland,West Indies,Ireland,OC McCoy,3.5,21,27,0,7.71,,,52.38
+1298145,West Indies vs Ireland,West Indies,Ireland,AJ Hosein,4.0,24,38,1,9.5,38.0,24.0,20.83
+1298145,West Indies vs Ireland,West Indies,Ireland,AS Joseph,4.0,24,39,0,9.75,,,37.5
+1298145,West Indies vs Ireland,West Indies,Ireland,OF Smith,2.0,12,23,0,11.5,,,33.33
+1298145,West Indies vs Ireland,West Indies,Ireland,JO Holder,4.0,24,23,0,5.75,,,29.17
+1298153,Sri Lanka vs Australia,Australia,Sri Lanka,JR Hazlewood,4.0,24,30,1,7.5,30.0,24.0,50.0
+1298153,Sri Lanka vs Australia,Australia,Sri Lanka,PJ Cummins,4.0,24,38,1,9.5,38.0,24.0,41.67
+1298153,Sri Lanka vs Australia,Australia,Sri Lanka,MA Starc,4.0,24,26,1,6.5,26.0,24.0,41.67
+1298153,Sri Lanka vs Australia,Australia,Sri Lanka,AC Agar,4.0,24,27,1,6.75,27.0,24.0,25.0
+1298153,Sri Lanka vs Australia,Australia,Sri Lanka,MP Stoinis,2.0,12,17,0,8.5,,,8.33
+1298153,Sri Lanka vs Australia,Australia,Sri Lanka,MR Marsh,1.0,6,14,0,14.0,,,16.67
+1298153,Sri Lanka vs Australia,Australia,Sri Lanka,GJ Maxwell,1.0,6,5,1,5.0,5.0,6.0,33.33
+1298153,Sri Lanka vs Australia,Sri Lanka,Australia,B Fernando,0.8,5,6,0,7.5,,,20.0
+1298153,Sri Lanka vs Australia,Sri Lanka,Australia,DM de Silva,2.2,13,18,1,8.18,18.0,13.0,30.77
+1298153,Sri Lanka vs Australia,Sri Lanka,Australia,CBRLS Kumara,3.5,21,27,0,7.71,,,61.9
+1298153,Sri Lanka vs Australia,Sri Lanka,Australia,C Karunaratne,3.0,18,21,1,7.0,21.0,18.0,27.78
+1298153,Sri Lanka vs Australia,Sri Lanka,Australia,M Theekshana,3.0,18,23,1,7.67,23.0,18.0,61.11
+1298153,Sri Lanka vs Australia,Sri Lanka,Australia,PWH de Silva,3.0,18,53,0,17.67,,,0.0
+1298153,Sri Lanka vs Australia,Sri Lanka,Australia,MD Shanaka,1.0,6,10,0,10.0,,,33.33
+1298152,Zimbabwe vs South Africa,South Africa,Zimbabwe,K Rabada,2.0,12,21,0,10.5,,,25.0
+1298152,Zimbabwe vs South Africa,South Africa,Zimbabwe,WD Parnell,2.0,12,7,1,3.5,7.0,12.0,66.67
+1298152,Zimbabwe vs South Africa,South Africa,Zimbabwe,L Ngidi,2.0,12,20,2,10.0,10.0,6.0,50.0
+1298152,Zimbabwe vs South Africa,South Africa,Zimbabwe,KA Maharaj,1.0,6,10,0,10.0,,,16.67
+1298152,Zimbabwe vs South Africa,South Africa,Zimbabwe,A Nortje,2.2,13,21,1,9.55,21.0,13.0,15.38
+1298152,Zimbabwe vs South Africa,Zimbabwe,South Africa,TL Chatara,1.0,6,23,0,23.0,,,0.0
+1298152,Zimbabwe vs South Africa,Zimbabwe,South Africa,R Ngarava,1.0,6,17,0,17.0,,,33.33
+1298152,Zimbabwe vs South Africa,Zimbabwe,South Africa,Sikandar Raza,1.0,6,11,0,11.0,,,16.67
+1298144,United Arab Emirates vs Namibia,Namibia,United Arab Emirates,R Trumpelmann,4.0,24,22,0,5.5,,,41.67
+1298144,United Arab Emirates vs Namibia,Namibia,United Arab Emirates,D Wiese,4.0,24,27,1,6.75,27.0,24.0,50.0
+1298144,United Arab Emirates vs Namibia,Namibia,United Arab Emirates,BM Scholtz,4.0,24,22,1,5.5,22.0,24.0,45.83
+1298144,United Arab Emirates vs Namibia,Namibia,United Arab Emirates,JJ Smit,4.0,24,39,0,9.75,,,45.83
+1298144,United Arab Emirates vs Namibia,Namibia,United Arab Emirates,JN Frylinck,3.0,18,30,0,10.0,,,16.67
+1298144,United Arab Emirates vs Namibia,Namibia,United Arab Emirates,B Shikongo,1.0,6,8,1,8.0,8.0,6.0,16.67
+1298144,United Arab Emirates vs Namibia,United Arab Emirates,Namibia,Basil Hameed,3.0,18,18,2,6.0,9.0,9.0,50.0
+1298144,United Arab Emirates vs Namibia,United Arab Emirates,Namibia,Junaid Siddique,4.0,24,35,1,8.75,35.0,24.0,33.33
+1298144,United Arab Emirates vs Namibia,United Arab Emirates,Namibia,Zahoor Khan,4.0,24,21,2,5.25,10.5,12.0,58.33
+1298144,United Arab Emirates vs Namibia,United Arab Emirates,Namibia,Ahmed Raza,1.0,6,9,0,9.0,,,16.67
+1298144,United Arab Emirates vs Namibia,United Arab Emirates,Namibia,KP Meiyappan,4.0,24,35,1,8.75,35.0,24.0,29.17
+1298144,United Arab Emirates vs Namibia,United Arab Emirates,Namibia,Aayan Afzal Khan,2.0,12,7,0,3.5,,,41.67
+1298144,United Arab Emirates vs Namibia,United Arab Emirates,Namibia,Waseem Muhammad,2.0,12,16,1,8.0,16.0,12.0,25.0
+1298168,Zimbabwe vs Netherlands,Netherlands,Zimbabwe,FJ Klaassen,4.0,24,17,1,4.25,17.0,24.0,70.83
+1298168,Zimbabwe vs Netherlands,Netherlands,Zimbabwe,PA van Meekeren,4.0,24,30,3,7.5,10.0,8.0,50.0
+1298168,Zimbabwe vs Netherlands,Netherlands,Zimbabwe,BD Glover,4.0,24,30,2,7.5,15.0,12.0,58.33
+1298168,Zimbabwe vs Netherlands,Netherlands,Zimbabwe,LV van Beek,2.3,14,17,2,7.39,8.5,7.0,57.14
+1298168,Zimbabwe vs Netherlands,Netherlands,Zimbabwe,BFW de Leede,4.0,24,15,2,3.75,7.5,12.0,41.67
+1298168,Zimbabwe vs Netherlands,Netherlands,Zimbabwe,RE van der Merwe,1.0,6,8,0,8.0,,,33.33
+1298168,Zimbabwe vs Netherlands,Zimbabwe,Netherlands,TL Chatara,4.0,24,22,0,5.5,,,58.33
+1298168,Zimbabwe vs Netherlands,Zimbabwe,Netherlands,R Ngarava,4.0,24,18,2,4.5,9.0,12.0,62.5
+1298168,Zimbabwe vs Netherlands,Zimbabwe,Netherlands,B Muzarabani,4.0,24,27,2,6.75,13.5,12.0,50.0
+1298168,Zimbabwe vs Netherlands,Zimbabwe,Netherlands,SC Williams,3.0,18,22,0,7.33,,,38.89
+1298168,Zimbabwe vs Netherlands,Zimbabwe,Netherlands,Sikandar Raza,1.0,6,6,0,6.0,,,0.0
+1298168,Zimbabwe vs Netherlands,Zimbabwe,Netherlands,LM Jongwe,2.0,12,25,1,12.5,25.0,12.0,25.0
+1298164,India vs South Africa,South Africa,India,WD Parnell,4.0,24,15,3,3.75,5.0,8.0,66.67
+1298164,India vs South Africa,South Africa,India,K Rabada,4.0,24,28,0,7.0,,,45.83
+1298164,India vs South Africa,South Africa,India,L Ngidi,4.0,24,29,4,7.25,7.25,6.0,41.67
+1298164,India vs South Africa,South Africa,India,A Nortje,4.0,24,28,1,7.0,28.0,24.0,41.67
+1298164,India vs South Africa,South Africa,India,KA Maharaj,3.0,18,28,0,9.33,,,27.78
+1298164,India vs South Africa,South Africa,India,AK Markram,1.0,6,5,0,5.0,,,16.67
+1298164,India vs South Africa,India,South Africa,B Kumar,3.7,22,22,0,5.95,,,54.55
+1298164,India vs South Africa,India,South Africa,Arshdeep Singh,4.0,24,25,2,6.25,12.5,12.0,54.17
+1298164,India vs South Africa,India,South Africa,Mohammed Shami,4.0,24,13,1,3.25,13.0,24.0,62.5
+1298164,India vs South Africa,India,South Africa,HH Pandya,4.0,24,33,1,8.25,33.0,24.0,29.17
+1298164,India vs South Africa,India,South Africa,R Ashwin,4.0,24,44,1,11.0,44.0,24.0,16.67
+1298179,Pakistan vs England,England,Pakistan,BA Stokes,4.0,24,33,1,8.25,33.0,24.0,20.83
+1298179,Pakistan vs England,England,Pakistan,CR Woakes,3.0,18,26,0,8.67,,,38.89
+1298179,Pakistan vs England,England,Pakistan,SM Curran,4.0,24,12,3,3.0,4.0,8.0,62.5
+1298179,Pakistan vs England,England,Pakistan,AU Rashid,4.0,24,22,2,5.5,11.0,12.0,41.67
+1298179,Pakistan vs England,England,Pakistan,CJ Jordan,4.0,24,28,2,7.0,14.0,12.0,33.33
+1298179,Pakistan vs England,England,Pakistan,LS Livingstone,1.0,6,16,0,16.0,,,16.67
+1298179,Pakistan vs England,Pakistan,England,Shaheen Shah Afridi,2.2,13,14,1,6.36,14.0,13.0,38.46
+1298179,Pakistan vs England,Pakistan,England,Naseem Shah,4.0,24,30,0,7.5,,,62.5
+1298179,Pakistan vs England,Pakistan,England,Haris Rauf,4.0,24,23,2,5.75,11.5,12.0,54.17
+1298179,Pakistan vs England,Pakistan,England,Shadab Khan,4.0,24,20,1,5.0,20.0,24.0,41.67
+1298179,Pakistan vs England,Pakistan,England,Mohammad Wasim,4.0,24,38,1,9.5,38.0,24.0,20.83
+1298179,Pakistan vs England,Pakistan,England,Iftikhar Ahmed,0.8,5,13,0,16.25,,,0.0
+1298138,Zimbabwe vs Ireland,Ireland,Zimbabwe,J Little,4.0,24,28,3,7.0,9.33,8.0,41.67
+1298138,Zimbabwe vs Ireland,Ireland,Zimbabwe,MR Adair,4.0,24,40,2,10.0,20.0,12.0,20.83
+1298138,Zimbabwe vs Ireland,Ireland,Zimbabwe,BJ McCarthy,4.0,24,24,0,6.0,,,45.83
+1298138,Zimbabwe vs Ireland,Ireland,Zimbabwe,C Campher,3.0,18,30,0,10.0,,,27.78
+1298138,Zimbabwe vs Ireland,Ireland,Zimbabwe,Simi Singh,3.0,18,31,2,10.33,15.5,9.0,27.78
+1298138,Zimbabwe vs Ireland,Ireland,Zimbabwe,GJ Delany,2.0,12,21,0,10.5,,,33.33
+1298138,Zimbabwe vs Ireland,Zimbabwe,Ireland,R Ngarava,4.0,24,22,2,5.5,11.0,12.0,54.17
+1298138,Zimbabwe vs Ireland,Zimbabwe,Ireland,TL Chatara,4.0,24,22,2,5.5,11.0,12.0,54.17
+1298138,Zimbabwe vs Ireland,Zimbabwe,Ireland,B Muzarabani,4.0,24,32,3,8.0,10.67,8.0,45.83
+1298138,Zimbabwe vs Ireland,Zimbabwe,Ireland,LM Jongwe,2.0,12,24,0,12.0,,,8.33
+1298138,Zimbabwe vs Ireland,Zimbabwe,Ireland,SC Williams,3.0,18,20,1,6.67,20.0,18.0,16.67
+1298138,Zimbabwe vs Ireland,Zimbabwe,Ireland,Sikandar Raza,3.0,18,23,1,7.67,23.0,18.0,38.89
+1298143,Sri Lanka vs Netherlands,Netherlands,Sri Lanka,FJ Klaassen,4.0,24,34,1,8.5,34.0,24.0,37.5
+1298143,Sri Lanka vs Netherlands,Netherlands,Sri Lanka,TJG Pringle,3.0,18,25,0,8.33,,,38.89
+1298143,Sri Lanka vs Netherlands,Netherlands,Sri Lanka,RE van der Merwe,3.0,18,16,0,5.33,,,55.56
+1298143,Sri Lanka vs Netherlands,Netherlands,Sri Lanka,PA van Meekeren,4.0,24,25,2,6.25,12.5,12.0,45.83
+1298143,Sri Lanka vs Netherlands,Netherlands,Sri Lanka,BFW de Leede,3.0,18,31,2,10.33,15.5,9.0,27.78
+1298143,Sri Lanka vs Netherlands,Netherlands,Sri Lanka,T van der Gugten,3.0,18,31,1,10.33,31.0,18.0,16.67
+1298143,Sri Lanka vs Netherlands,Sri Lanka,Netherlands,DM de Silva,1.0,6,5,0,5.0,,,16.67
+1298143,Sri Lanka vs Netherlands,Sri Lanka,Netherlands,CBRLS Kumara,4.0,24,29,1,7.25,29.0,24.0,54.17
+1298143,Sri Lanka vs Netherlands,Sri Lanka,Netherlands,B Fernando,4.0,24,33,1,8.25,33.0,24.0,45.83
+1298143,Sri Lanka vs Netherlands,Sri Lanka,Netherlands,M Theekshana,4.0,24,33,2,8.25,16.5,12.0,45.83
+1298143,Sri Lanka vs Netherlands,Sri Lanka,Netherlands,PWH de Silva,4.0,24,28,3,7.0,9.33,8.0,45.83
+1298143,Sri Lanka vs Netherlands,Sri Lanka,Netherlands,C Karunaratne,2.0,12,11,0,5.5,,,50.0
+1298143,Sri Lanka vs Netherlands,Sri Lanka,Netherlands,MD Shanaka,1.0,6,7,0,7.0,,,50.0
+1298175,Bangladesh vs Pakistan,Pakistan,Bangladesh,Shaheen Shah Afridi,4.0,24,22,4,5.5,5.5,6.0,54.17
+1298175,Bangladesh vs Pakistan,Pakistan,Bangladesh,Naseem Shah,3.0,18,16,0,5.33,,,44.44
+1298175,Bangladesh vs Pakistan,Pakistan,Bangladesh,Mohammad Wasim,2.0,12,20,0,10.0,,,33.33
+1298175,Bangladesh vs Pakistan,Pakistan,Bangladesh,Haris Rauf,4.0,24,23,1,5.75,23.0,24.0,37.5
+1298175,Bangladesh vs Pakistan,Pakistan,Bangladesh,Shadab Khan,4.0,24,30,2,7.5,15.0,12.0,33.33
+1298175,Bangladesh vs Pakistan,Pakistan,Bangladesh,Iftikhar Ahmed,3.0,18,16,1,5.33,16.0,18.0,44.44
+1298175,Bangladesh vs Pakistan,Bangladesh,Pakistan,Taskin Ahmed,3.0,18,26,0,8.67,,,55.56
+1298175,Bangladesh vs Pakistan,Bangladesh,Pakistan,Nasum Ahmed,4.0,24,16,1,4.0,16.0,24.0,50.0
+1298175,Bangladesh vs Pakistan,Bangladesh,Pakistan,Shakib Al Hasan,4.0,24,35,1,8.75,35.0,24.0,25.0
+1298175,Bangladesh vs Pakistan,Bangladesh,Pakistan,Mustafizur Rahman,4.0,24,22,1,5.5,22.0,24.0,29.17
+1298175,Bangladesh vs Pakistan,Bangladesh,Pakistan,Ebadat Hossain,3.2,19,29,1,9.06,29.0,19.0,31.58
+1298163,Netherlands vs Pakistan,Pakistan,Netherlands,Shaheen Shah Afridi,4.0,24,19,1,4.75,19.0,24.0,54.17
+1298163,Netherlands vs Pakistan,Pakistan,Netherlands,Naseem Shah,4.0,24,12,1,3.0,12.0,24.0,58.33
+1298163,Netherlands vs Pakistan,Pakistan,Netherlands,Mohammad Wasim,3.0,18,17,2,5.67,8.5,9.0,44.44
+1298163,Netherlands vs Pakistan,Pakistan,Netherlands,Haris Rauf,3.0,18,10,1,3.33,10.0,18.0,61.11
+1298163,Netherlands vs Pakistan,Pakistan,Netherlands,Shadab Khan,4.0,24,22,3,5.5,7.33,8.0,45.83
+1298163,Netherlands vs Pakistan,Pakistan,Netherlands,Mohammad Nawaz,2.0,12,11,0,5.5,,,25.0
+1298163,Netherlands vs Pakistan,Netherlands,Pakistan,FJ Klaassen,3.0,18,26,0,8.67,,,22.22
+1298163,Netherlands vs Pakistan,Netherlands,Pakistan,PA van Meekeren,4.0,24,19,1,4.75,19.0,24.0,62.5
+1298163,Netherlands vs Pakistan,Netherlands,Pakistan,BD Glover,2.8,17,22,2,7.86,11.0,8.5,52.94
+1298163,Netherlands vs Pakistan,Netherlands,Pakistan,TJG Pringle,1.0,6,12,0,12.0,,,16.67
+1298163,Netherlands vs Pakistan,Netherlands,Pakistan,LV van Beek,2.0,12,9,0,4.5,,,41.67
+1298163,Netherlands vs Pakistan,Netherlands,Pakistan,RE van der Merwe,1.0,6,7,0,7.0,,,16.67
+1298158,Zimbabwe vs Pakistan,Pakistan,Zimbabwe,Shaheen Shah Afridi,4.0,24,30,0,7.5,,,33.33
+1298158,Zimbabwe vs Pakistan,Pakistan,Zimbabwe,Naseem Shah,4.0,24,34,0,8.5,,,29.17
+1298158,Zimbabwe vs Pakistan,Pakistan,Zimbabwe,Mohammad Wasim,4.0,24,26,4,6.5,6.5,6.0,58.33
+1298158,Zimbabwe vs Pakistan,Pakistan,Zimbabwe,Haris Rauf,4.0,24,17,1,4.25,17.0,24.0,54.17
+1298158,Zimbabwe vs Pakistan,Pakistan,Zimbabwe,Shadab Khan,4.0,24,23,3,5.75,7.67,8.0,33.33
+1298158,Zimbabwe vs Pakistan,Zimbabwe,Pakistan,R Ngarava,4.0,24,25,0,6.25,,,58.33
+1298158,Zimbabwe vs Pakistan,Zimbabwe,Pakistan,B Muzarabani,4.0,24,20,1,5.0,20.0,24.0,41.67
+1298158,Zimbabwe vs Pakistan,Zimbabwe,Pakistan,B Evans,4.0,24,27,2,6.75,13.5,12.0,41.67
+1298158,Zimbabwe vs Pakistan,Zimbabwe,Pakistan,Sikandar Raza,4.0,24,25,3,6.25,8.33,8.0,54.17
+1298158,Zimbabwe vs Pakistan,Zimbabwe,Pakistan,LM Jongwe,1.0,6,10,1,10.0,10.0,6.0,33.33
+1298158,Zimbabwe vs Pakistan,Zimbabwe,Pakistan,SC Williams,2.0,12,15,0,7.5,,,8.33
+1298158,Zimbabwe vs Pakistan,Zimbabwe,Pakistan,RP Burl,1.0,6,7,0,7.0,,,0.0
+1298162,Bangladesh vs Zimbabwe,Zimbabwe,Bangladesh,R Ngarava,4.0,24,24,2,6.0,12.0,12.0,45.83
+1298162,Bangladesh vs Zimbabwe,Zimbabwe,Bangladesh,B Muzarabani,2.0,12,13,2,6.5,6.5,6.0,66.67
+1298162,Bangladesh vs Zimbabwe,Zimbabwe,Bangladesh,TL Chatara,3.0,18,18,0,6.0,,,38.89
+1298162,Bangladesh vs Zimbabwe,Zimbabwe,Bangladesh,Sikandar Raza,4.0,24,35,1,8.75,35.0,24.0,8.33
+1298162,Bangladesh vs Zimbabwe,Zimbabwe,Bangladesh,B Evans,3.0,18,32,0,10.67,,,11.11
+1298162,Bangladesh vs Zimbabwe,Zimbabwe,Bangladesh,W Madhevere,2.0,12,18,0,9.0,,,0.0
+1298162,Bangladesh vs Zimbabwe,Zimbabwe,Bangladesh,SC Williams,2.0,12,10,1,5.0,10.0,12.0,33.33
+1298162,Bangladesh vs Zimbabwe,Bangladesh,Zimbabwe,Taskin Ahmed,4.0,24,20,3,5.0,6.67,8.0,58.33
+1298162,Bangladesh vs Zimbabwe,Bangladesh,Zimbabwe,Hasan Mahmud,4.0,24,37,0,9.25,,,29.17
+1298162,Bangladesh vs Zimbabwe,Bangladesh,Zimbabwe,Mosaddek Hossain,4.0,24,39,2,9.75,19.5,12.0,37.5
+1298162,Bangladesh vs Zimbabwe,Bangladesh,Zimbabwe,Mustafizur Rahman,4.0,24,15,2,3.75,7.5,12.0,45.83
+1298162,Bangladesh vs Zimbabwe,Bangladesh,Zimbabwe,Shakib Al Hasan,4.0,24,36,0,9.0,,,16.67
+1298135,Namibia vs Sri Lanka,Sri Lanka,Namibia,M Theekshana,4.0,24,23,1,5.75,23.0,24.0,29.17
+1298135,Namibia vs Sri Lanka,Sri Lanka,Namibia,PVD Chameera,4.0,24,40,1,10.0,40.0,24.0,20.83
+1298135,Namibia vs Sri Lanka,Sri Lanka,Namibia,PM Liyanagamage,4.0,24,37,2,9.25,18.5,12.0,25.0
+1298135,Namibia vs Sri Lanka,Sri Lanka,Namibia,C Karunaratne,4.0,24,36,1,9.0,36.0,24.0,29.17
+1298135,Namibia vs Sri Lanka,Sri Lanka,Namibia,PWH de Silva,4.0,24,27,1,6.75,27.0,24.0,33.33
+1298135,Namibia vs Sri Lanka,Namibia,Sri Lanka,MG Erasmus,1.0,6,8,0,8.0,,,16.67
+1298135,Namibia vs Sri Lanka,Namibia,Sri Lanka,D Wiese,4.0,24,17,2,4.25,8.5,12.0,50.0
+1298135,Namibia vs Sri Lanka,Namibia,Sri Lanka,BM Scholtz,4.0,24,18,2,4.5,9.0,12.0,41.67
+1298135,Namibia vs Sri Lanka,Namibia,Sri Lanka,B Shikongo,3.0,18,23,2,7.67,11.5,9.0,27.78
+1298135,Namibia vs Sri Lanka,Namibia,Sri Lanka,JJ Smit,3.0,18,16,1,5.33,16.0,18.0,38.89
+1298135,Namibia vs Sri Lanka,Namibia,Sri Lanka,JN Frylinck,4.0,24,26,2,6.5,13.0,12.0,41.67
+1298174,Netherlands vs South Africa,South Africa,Netherlands,WD Parnell,4.0,24,32,0,8.0,,,41.67
+1298174,Netherlands vs South Africa,South Africa,Netherlands,K Rabada,3.0,18,37,0,12.33,,,33.33
+1298174,Netherlands vs South Africa,South Africa,Netherlands,L Ngidi,3.0,18,35,0,11.67,,,16.67
+1298174,Netherlands vs South Africa,South Africa,Netherlands,A Nortje,4.0,24,10,1,2.5,10.0,24.0,58.33
+1298174,Netherlands vs South Africa,South Africa,Netherlands,KA Maharaj,4.0,24,28,2,7.0,14.0,12.0,45.83
+1298174,Netherlands vs South Africa,South Africa,Netherlands,AK Markram,2.0,12,16,1,8.0,16.0,12.0,25.0
+1298174,Netherlands vs South Africa,Netherlands,South Africa,FJ Klaassen,4.0,24,20,2,5.0,10.0,12.0,62.5
+1298174,Netherlands vs South Africa,Netherlands,South Africa,PA van Meekeren,3.0,18,33,1,11.0,33.0,18.0,27.78
+1298174,Netherlands vs South Africa,Netherlands,South Africa,CN Ackermann,3.0,18,16,0,5.33,,,33.33
+1298174,Netherlands vs South Africa,Netherlands,South Africa,RE van der Merwe,2.0,12,19,0,9.5,,,16.67
+1298174,Netherlands vs South Africa,Netherlands,South Africa,BD Glover,2.0,12,9,3,4.5,3.0,4.0,41.67
+1298174,Netherlands vs South Africa,Netherlands,South Africa,LV van Beek,3.0,18,23,0,7.67,,,22.22
+1298174,Netherlands vs South Africa,Netherlands,South Africa,BFW de Leede,3.0,18,25,2,8.33,12.5,9.0,22.22
+1298154,Ireland vs England,England,Ireland,BA Stokes,2.3,14,8,1,3.48,8.0,14.0,50.0
+1298154,Ireland vs England,England,Ireland,CR Woakes,3.0,18,41,0,13.67,,,22.22
+1298154,Ireland vs England,England,Ireland,MA Wood,4.0,24,36,3,9.0,12.0,8.0,45.83
+1298154,Ireland vs England,England,Ireland,SM Curran,3.0,18,31,2,10.33,15.5,9.0,38.89
+1298154,Ireland vs England,England,Ireland,AU Rashid,4.0,24,24,0,6.0,,,25.0
+1298154,Ireland vs England,England,Ireland,LS Livingstone,3.0,18,17,3,5.67,5.67,6.0,27.78
+1298154,Ireland vs England,Ireland,England,J Little,3.0,18,17,2,5.67,8.5,9.0,55.56
+1298154,Ireland vs England,Ireland,England,MR Adair,2.0,12,10,0,5.0,,,41.67
+1298154,Ireland vs England,Ireland,England,BJ McCarthy,3.0,18,21,1,7.0,21.0,18.0,33.33
+1298154,Ireland vs England,Ireland,England,F Hand,2.0,12,19,1,9.5,19.0,12.0,41.67
+1298154,Ireland vs England,Ireland,England,GJ Delany,3.5,21,33,0,9.43,,,23.81
+1298154,Ireland vs England,Ireland,England,GH Dockrell,1.0,6,5,1,5.0,5.0,6.0,33.33
+1298142,West Indies vs Zimbabwe,Zimbabwe,West Indies,R Ngarava,3.0,18,25,0,8.33,,,38.89
+1298142,West Indies vs Zimbabwe,Zimbabwe,West Indies,TL Chatara,3.0,18,24,0,8.0,,,16.67
+1298142,West Indies vs Zimbabwe,Zimbabwe,West Indies,B Muzarabani,4.0,24,40,2,10.0,20.0,12.0,37.5
+1298142,West Indies vs Zimbabwe,Zimbabwe,West Indies,RP Burl,3.0,18,27,0,9.0,,,27.78
+1298142,West Indies vs Zimbabwe,Zimbabwe,West Indies,Sikandar Raza,4.0,24,19,3,4.75,6.33,8.0,29.17
+1298142,West Indies vs Zimbabwe,Zimbabwe,West Indies,SC Williams,3.0,18,18,1,6.0,18.0,18.0,33.33
+1298142,West Indies vs Zimbabwe,West Indies,Zimbabwe,KR Mayers,1.0,6,18,0,18.0,,,33.33
+1298142,West Indies vs Zimbabwe,West Indies,Zimbabwe,AJ Hosein,4.0,24,25,1,6.25,25.0,24.0,50.0
+1298142,West Indies vs Zimbabwe,West Indies,Zimbabwe,AS Joseph,4.0,24,16,4,4.0,4.0,6.0,66.67
+1298142,West Indies vs Zimbabwe,West Indies,Zimbabwe,OC McCoy,3.0,18,20,1,6.67,20.0,18.0,44.44
+1298142,West Indies vs Zimbabwe,West Indies,Zimbabwe,JO Holder,3.3,20,12,3,3.64,4.0,6.67,60.0
+1298142,West Indies vs Zimbabwe,West Indies,Zimbabwe,OF Smith,3.0,18,31,1,10.33,31.0,18.0,44.44
+1298139,Namibia vs Netherlands,Netherlands,Namibia,FJ Klaassen,3.0,18,15,0,5.0,,,61.11
+1298139,Namibia vs Netherlands,Netherlands,Namibia,TJG Pringle,3.0,18,16,1,5.33,16.0,18.0,38.89
+1298139,Namibia vs Netherlands,Netherlands,Namibia,BFW de Leede,3.0,18,18,2,6.0,9.0,9.0,33.33
+1298139,Namibia vs Netherlands,Netherlands,Namibia,CN Ackermann,3.0,18,17,1,5.67,17.0,18.0,44.44
+1298139,Namibia vs Netherlands,Netherlands,Namibia,PA van Meekeren,4.0,24,19,1,4.75,19.0,24.0,41.67
+1298139,Namibia vs Netherlands,Netherlands,Namibia,T van der Gugten,3.0,18,30,0,10.0,,,16.67
+1298139,Namibia vs Netherlands,Netherlands,Namibia,RE van der Merwe,1.0,6,6,1,6.0,6.0,6.0,16.67
+1298139,Namibia vs Netherlands,Namibia,Netherlands,BM Scholtz,4.0,24,21,1,5.25,21.0,24.0,41.67
+1298139,Namibia vs Netherlands,Namibia,Netherlands,D Wiese,2.5,15,22,0,8.8,,,26.67
+1298139,Namibia vs Netherlands,Namibia,Netherlands,MG Erasmus,3.0,18,13,0,4.33,,,44.44
+1298139,Namibia vs Netherlands,Namibia,Netherlands,B Shikongo,1.0,6,18,0,18.0,,,16.67
+1298139,Namibia vs Netherlands,Namibia,Netherlands,JJ Smit,4.0,24,24,2,6.0,12.0,12.0,37.5
+1298139,Namibia vs Netherlands,Namibia,Netherlands,JN Frylinck,4.0,24,16,1,4.0,16.0,24.0,45.83
+1298139,Namibia vs Netherlands,Namibia,Netherlands,JN Loftie-Eaton,1.0,6,8,0,8.0,,,33.33
+1298178,India vs England,England,India,BA Stokes,2.0,12,18,0,9.0,,,41.67
+1298178,India vs England,England,India,CR Woakes,3.0,18,24,1,8.0,24.0,18.0,27.78
+1298178,India vs England,England,India,SM Curran,4.0,24,42,0,10.5,,,37.5
+1298178,India vs England,England,India,AU Rashid,4.0,24,20,1,5.0,20.0,24.0,33.33
+1298178,India vs England,England,India,LS Livingstone,3.0,18,21,0,7.0,,,38.89
+1298178,India vs England,England,India,CJ Jordan,4.0,24,43,3,10.75,14.33,8.0,33.33
+1298178,India vs England,India,England,B Kumar,2.0,12,25,0,12.5,,,33.33
+1298178,India vs England,India,England,Arshdeep Singh,2.0,12,15,0,7.5,,,33.33
+1298178,India vs England,India,England,AR Patel,4.0,24,30,0,7.5,,,41.67
+1298178,India vs England,India,England,Mohammed Shami,3.0,18,39,0,13.0,,,38.89
+1298178,India vs England,India,England,R Ashwin,2.0,12,27,0,13.5,,,8.33
+1298178,India vs England,India,England,HH Pandya,3.0,18,34,0,11.33,,,27.78

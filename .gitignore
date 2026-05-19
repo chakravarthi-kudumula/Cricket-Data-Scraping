@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local virtual environment
+cricket/
+.venv/
+venv/
+
+# Downloaded raw data cache
+# Recreate with: python download_cricsheet.py
+data/raw/
+
+# Local Power BI files can be large/binary; keep them outside git unless needed.
+*.pbix
+
+# Browser/profile artifacts
+selenium_chrome_profile/
