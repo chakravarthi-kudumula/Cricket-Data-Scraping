@@ -37,6 +37,19 @@ data/
 
 `data/processed/` always holds the latest generated CSVs. `data/outputs/` keeps series-specific copies so an older run is not lost when the pipeline is run again.
 
+## Clone from GitHub
+
+The project is available on GitHub here: https://github.com/chakravarthi-kudumula/Cricket-Data-Scraping
+
+To download it on a new machine, run:
+
+```bash
+git clone https://github.com/chakravarthi-kudumula/Cricket-Data-Scraping.git
+cd Cricket-Data-Scraping
+```
+
+After cloning, follow the setup steps below to create the Python environment, install the requirements, download the raw JSON data if needed, and run the pipeline.
+
 ## How to run it
 
 Create a Python environment first. This folder already has a local virtual environment named `cricket`, but if you are setting it up again from scratch, use:
